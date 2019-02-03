@@ -30,13 +30,19 @@ weight = 7
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Econometrics (Financial), Statistics, Time Series Analysis, Data Science & ML"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "50%"
+  
+[[feature]]
+  icon = "gt"
+  icon_pack = "fab"
+  name = "git"
+  description = "50%"
 
 +++
