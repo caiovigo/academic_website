@@ -13,14 +13,14 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+# [[experience]]
+#   title = "Professor"
+#   company = "University X"
+#   company_url = ""
+#   location = "California"
+#   date_start = "2016-01-01"
+#   date_end = "2016-12-31"
+#   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
 
