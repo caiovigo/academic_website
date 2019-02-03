@@ -19,27 +19,75 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Instructor of Record"
+  company = "The University of Kansas"
+  company_url = "https://ku.edu"
+  location = "Kansas, USA"
+  date_start = "2018-02-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Courses:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Introduction to Econometrics (Spring 2019)
+  * Introduction to Econometrics (Fall 2018)
+  * Intermediate Macroeconomics (Spring 2018)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  title = "Graduate Teaching Assistant (GTA)"
+  company = "The University of Kansas"
+  company_url = "https://ku.edu"
+  location = "Kansas, USA"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  Courses:
+  
+  * Principles of Microeconomics (Fall 2017) [Head TA]
+  * Principles of Microeconomics (Fall 2016)
+  * Principles of Macroeconomics (Spring 2017)
+  """
 
+[[experience]]
+  title = "Graduate Teaching Assistant (GTA)"
+  company = "University of São Paulo (USP)"
+  company_url = "https://usp.br"
+  location = "São Paulo, Brazil"
+  date_start = "2015-02-01"
+  date_end = "2015-07-31"
+  description = """
+  Courses:
+  
+  * Econometrics
+  """
+
+[[experience]]
+  title = "Funds Analyst"
+  company = "Patria Investiments Ltd"
+  company_url = "https://usp.br"
+  location = "São Paulo, Brazil"
+  date_start = "2012-06-30"
+  date_end = "2013-03-31"
+  description = """
+  """
+
+[[experience]]
+  title = "Financial Planning Analyst"
+  company = "Kraft Foods Brazil"
+  company_url = "https://usp.br"
+  location = "São Paulo, Brazil"
+  date_start = "2011-11-30"
+  date_end = "2012-06-30"
+  description = """
+  """
+  
+[[experience]]
+  title = "Financial Planning Intern"
+  company = "Kraft Foods Brazil"
+  company_url = "https://usp.br"
+  location = "São Paulo, Brazil"
+  date_start = "2011-04-01"
+  date_end = "2011-11-30"
+  description = """
+  """  
 +++

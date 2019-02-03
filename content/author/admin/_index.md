@@ -30,6 +30,16 @@ interests = [
   course = "PhD in Economics"
   institution = "The University of Kansas (KU)"
   year = 2021
+  
+[[education.courses]]
+  course = "Graduate Certificate in Data Science"
+  institution = "The University of Kansas (KU)"
+  year = 2019
+  
+[[education.courses]]
+  course = "Graduate Certificate in Applied Mathematics"
+  institution = "The University of Kansas (KU)"
+  year = 2018  
 
 [[education.courses]]
   course = "MA in Economics"
