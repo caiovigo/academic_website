@@ -92,7 +92,7 @@ interests = [
   link = "files/Vigo_Pereira,Caio_(CV)(2019.02.02).pdf"
   
 [[social]]
-  icon = "file"
+  icon = "file-alt"
   icon_pack = "fab"
   link = "files/Caio_Vigo_Pereira_Resume.pdf"
 

@@ -13,8 +13,6 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
-hdadhakjdahdkashda
-
 # [[experience]]
 #   title = "Professor"
 #   company = "University X"
