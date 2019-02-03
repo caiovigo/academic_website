@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Caio Vigo Pereira"
+name = "Caio Vigo"
 
 # Is this the primary user of the site?
 superuser = true
@@ -10,13 +10,13 @@ role = "Ph.D. candidate in Economics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The University of Kansas", url = "" } ]
+organizations = [ { name = "The University of Kansas (KU)", url = "https://ku.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Financial Econometrics, Time Series Analysis and Data Science."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "caiovigo@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
