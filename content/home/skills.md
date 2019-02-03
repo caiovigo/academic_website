@@ -40,7 +40,7 @@ weight = 7
   description = "50%"
   
 [[feature]]
-  icon = "gt"
+  icon = "git"
   icon_pack = "fab"
   name = "git"
   description = "50%"
