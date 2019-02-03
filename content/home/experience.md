@@ -38,8 +38,8 @@ date_format = "January 2006"
   company = "The University of Kansas"
   company_url = "https://ku.edu"
   location = "Kansas, USA"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2016-08-01"
+  date_end = ""
   description = """
   Courses:
   
