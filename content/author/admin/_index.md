@@ -74,10 +74,10 @@ interests = [
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/caio-vigo-pereira/"
 
-# [[social]]
-#   icon = "google-scholar"
-#   icon_pack = "ai"
-#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[social]]
+  icon = "lattes"
+  icon_pack = "ai"
+  link = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4480021E0"
 
 [[social]]
   icon = "github"
@@ -90,6 +90,11 @@ interests = [
   icon = "cv"
   icon_pack = "ai"
   link = "files/Vigo_Pereira,Caio_(CV)(2019.02.02).pdf"
+  
+[[social]]
+  icon = "file"
+  icon_pack = "fab"
+  link = "files/Caio_Vigo_Pereira_Resume.pdf"
 
 +++
 
