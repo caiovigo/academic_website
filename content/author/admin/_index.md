@@ -29,7 +29,7 @@ interests = [
 [[education.courses]]
   course = "PhD in Economics"
   institution = "The University of Kansas (KU)"
-  year = 2020/2021 (Expected)
+  year = 2021
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
