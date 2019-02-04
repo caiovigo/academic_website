@@ -23,20 +23,20 @@
   url = "#projects"
   weight = 4
 
-# [[main]]
-#   name = "Tutorials"
-#   url = "/tutorial/"
-#   weight = 5
+ [[main]]
+   name = "Teaching"
+   url = "/teching/"
+   weight = 5
   
 [[main]]
   name = "CV"
   url = "files/Vigo_Pereira,Caio_(CV)(2019.02.02).pdf"
-  weight = 5
+  weight = 6
   
 [[main]]
   name = "Resume"
   url = "files/Caio_Vigo_Pereira_Resume.pdf"
-  weight = 6    
+  weight = 7    
 
 [[main]]
   name = "Contact"
