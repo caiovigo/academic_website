@@ -35,5 +35,11 @@ publication_type = "-1"
 
 # Exclude publications that are shown in the Featured Publications widget?
 exclude_featured = false
+
+* Vigo Pereira, C. A. ``Optimal Conditioning Information with Google’s Search Queries for Portfolio Management" (2018)
+
+
+* Vigo Pereira, C. A. and Laurini, M. P. ``Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators" (2016)
+
 +++
 
