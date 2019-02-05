@@ -22,27 +22,50 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Econometrics (Financial Econometrics), Statistics, Time Series Analysis, Data Science & ML"
+  description =  
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Econometrics (Financial), Statistics, Time Series Analysis, Data Science & ML"
-  description = "100%"  
+  description = ""
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "50%"
+  description =
+
+[[feature]]
+  icon = "chart-scatter"
+  icon_pack = "fab"
+  name = "Stata"
+  description = 
   
+[[feature]]
+  icon = "function"
+  icon_pack = "fab"
+  name = "Matlab"
+  description =
+  
+[[feature]]
+  icon = "code"
+  icon_pack = "fab"
+  name = "LaTeX"
+  description =
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fab"
+  name = "VBA"
+  description =  
+
 [[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "git"
-  description = "50%"
-
+  description =
 +++
