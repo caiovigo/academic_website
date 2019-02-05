@@ -25,6 +25,7 @@ weight = 8
 +++
 
 **Instructor of Record**
+
 Department of Economics, The University of Kansas (KU)
 
 * Introduction to Econometrics (Fall 2018 & Spring 2019)
@@ -32,6 +33,7 @@ Department of Economics, The University of Kansas (KU)
 
 
 **Graduate Teaching Assistant**
+
 Department of Economics, The University of Kansas (KU)
 
 * Principles of Microeconomics (Fall 2016 & Fall 2017 [Head TA] )
@@ -39,6 +41,7 @@ Department of Economics, The University of Kansas (KU)
 
 
 **Graduate Teaching Assistant**
+
 Department of Economics, University of São Paulo (USP)
 
 * Econometrics (Spring 2015)
