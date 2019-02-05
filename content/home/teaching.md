@@ -33,10 +33,12 @@ Department of Economics, The University of Kansas (KU)
 
 **Graduate Teaching Assistant**
 Department of Economics, The University of Kansas (KU)
+
 * Principles of Microeconomics (Fall 2016 & Fall 2017 [Head TA] )
 * Principles of Macroeconomics (Spring 2017)
 
 
 **Graduate Teaching Assistant**
 Department of Economics, University of São Paulo (USP)
+
 * Econometrics (Spring 2015)
