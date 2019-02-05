@@ -61,11 +61,11 @@ weight = 7
   icon = "code"
   icon_pack = "fas"
   name = "VBA"
-  description =  
+  description = ""  
 
 [[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "git"
-  description =
+  description = ""
 +++
