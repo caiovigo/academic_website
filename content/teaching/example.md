@@ -1,5 +1,5 @@
 +++
-title = "Example Page"
+title = "01 - Review - Mathematical Tools & Probability (Appendix A & B)"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -9,18 +9,8 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Example Page"
+linktitle = "01 - Review - Mathematical Tools & Probability (Appendix A & B)"
 [menu.teaching]
-  parent = "Example Topic"
+  parent = "Slides"
   weight = 1
 +++
-
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
-
-## Tip 1
-
-...
-
-## Tip 2
-
-...

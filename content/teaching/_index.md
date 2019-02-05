@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.teaching]
-  name = "Overview"
+  name = "Econ 526 - Introduction to Econometrics (Spring 2019)"
   weight = 1
 +++
 
