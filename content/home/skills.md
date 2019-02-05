@@ -25,7 +25,7 @@ weight = 7
   icon = "chart-line"
   icon_pack = "fas"
   name = "Econometrics (Financial Econometrics), Statistics, Time Series Analysis, Data Science & ML"
-  description =  
+  description = "" 
   
 [[feature]]
   icon = "r-project"
@@ -37,25 +37,25 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description =
+  description = ""
 
 [[feature]]
   icon = "chart-scatter"
   icon_pack = "fab"
   name = "Stata"
-  description = 
+  description = ""
   
 [[feature]]
   icon = "function"
   icon_pack = "fab"
   name = "Matlab"
-  description =
+  description = ""
   
 [[feature]]
   icon = "code"
   icon_pack = "fab"
   name = "LaTeX"
-  description =
+  description = ""
 
 [[feature]]
   icon = "code"
