@@ -1,8 +1,6 @@
 ---
 title: "Teaching 1"
-author: "Caio Vigo"
-date: "February 4, 2019"
-output: html_document
+date: "2019-02-05"
 ---
 
 ```{r setup, include=FALSE}
