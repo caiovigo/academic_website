@@ -20,7 +20,8 @@ email = "caiovigo@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Econometrics (Financial)",
+  "Quantitative and Econometrics Methods"
+  "Fiancial Econometrics",
   "Time Series Analysis",
   "Data Science"
 ]
@@ -108,6 +109,6 @@ interests = [
 
 +++
 
-Caio Vigo Pereira is a Ph.D. candidate in Economics & Econometrics at the University of Kansas (KU), holds a MSc in Applied Economics from the University of São Paulo (USP) (2016), a MA in Economics from University of Kansas (KU) (2018) and a BA in Economics from the University of São Paulo (USP) (2011).
+Caio Vigo Pereira is a Ph.D. candidate in Economics at the University of Kansas (KU). He holds a MA in Economics from University of Kansas (KU) (2018), a MSc in Applied Economics from the University of São Paulo (USP) (2016) in Brazil, and a BSc in Economics from the University of São Paulo (USP) (2011).
 
-Has experience in Economics, with emphasis on Quantitative and Econometric Methods, Time Series Analysis and Financial Econometrics. Works mainly in the following subjects: Asset Pricing and Econometrics in Finance. Reviewer of the Brazilian Journal of Finance (RBFin) and the Journal of Management Science and Engineering (JMSE).
+Has experience in Economics, with emphasis on Quantitative and Econometric Methods, Time Series Analysis and Financial Econometrics. Works mainly in the following subjects: Asset Pricing and Econometrics in Finance. Reviewer of the Brazilian Journal of Finance (RBFin) and the Journal of Management Science and Engineering (JMSE). Currently, teaches Introduction to Econometrics at the University of Kansas. His previous work experience includes positions at Kraft Foods (now Mondelēz International) and Patria Investments, a Blackstone subsidiary in Brazil.

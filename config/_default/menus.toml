@@ -25,12 +25,12 @@
   
 [[main]]
   name = "CV"
-  url = "files/Vigo_Pereira,Caio_(CV)(2019.02.02).pdf"
+  url = "files/Vigo_Pereira,Caio_(CV).pdf"
   weight = 5
   
 [[main]]
   name = "Resume"
-  url = "files/Caio_Vigo_Pereira_Resume.pdf"
+  url = "files/Vigo_Pereira_Caio_Resume.pdf"
   weight = 6    
 
 [[main]]
