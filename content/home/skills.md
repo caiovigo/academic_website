@@ -40,26 +40,26 @@ weight = 7
   description = ""
 
 [[feature]]
-  icon = "chart-scatter"
-  icon_pack = "fab"
+  icon = "chart-bar"
+  icon_pack = "fas"
   name = "Stata"
   description = ""
   
 [[feature]]
-  icon = "function"
-  icon_pack = "fab"
+  icon = "terminal"
+  icon_pack = "fas"
   name = "Matlab"
   description = ""
   
 [[feature]]
   icon = "code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "LaTeX"
   description = ""
 
 [[feature]]
   icon = "code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "VBA"
   description =  
 

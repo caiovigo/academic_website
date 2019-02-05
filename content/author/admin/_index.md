@@ -87,7 +87,7 @@ interests = [
 [[social]]
   icon = "lattes"
   icon_pack = "ai"
-  link = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4480021E0"
+  link = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4480021E0&idiomaExibicao=2"
 
 [[social]]
   icon = "github"
