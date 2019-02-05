@@ -24,6 +24,19 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+**Instructor of Record**
+Department of Economics, The University of Kansas (KU)
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+* Introduction to Econometrics (Fall 2018 & Spring 2019)
+* Intermediate Macroeconomics (Spring 2018)
+
+
+**Graduate Teaching Assistant**
+Department of Economics, The University of Kansas (KU)
+* Principles of Microeconomics (Fall 2016 & Fall 2017 [Head TA] )
+* Principles of Macroeconomics (Spring 2017)
+
+
+**Graduate Teaching Assistant**
+Department of Economics, University of São Paulo (USP)
+* Econometrics (Spring 2015)
