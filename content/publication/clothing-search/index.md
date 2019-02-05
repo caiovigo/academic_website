@@ -28,6 +28,7 @@ show that Google Trends data improves the risk-return trade-off. However, Google
 signals are more volatile when used in weekly data. The motivation for this approach
 comes from the growing nowcasting literature, which has shown to be useful in forecast
 near-term values of economic indicators."
+abstract_short = ""
 
 # Is this a featured publication? (true/false)
 featured = true
