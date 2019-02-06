@@ -100,12 +100,12 @@ interests = [
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/Vigo_Pereira,Caio_(CV)(2019.02.02).pdf"
+  link = "files/Vigo_Pereira,Caio_(CV).pdf"
   
 [[social]]
   icon = "file-alt"
   icon_pack = "fas"
-  link = "files/Caio_Vigo_Pereira_Resume.pdf"
+  link = "files/Vigo_Pereira_Caio_Resume_website_version.pdf"
 
 +++
 
