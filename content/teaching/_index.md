@@ -1,5 +1,5 @@
 +++
-title = "Econ 526 - Introduction to Econometrics"
+title = "Teaching"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -9,7 +9,7 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.teaching]
-  name = "Econ 526 - Introduction to Econometrics"
-  weight = 1
+# [menu.teaching]
+#   name = "Econ 526 - Introduction to Econometrics"
+#   weight = 1
 +++
