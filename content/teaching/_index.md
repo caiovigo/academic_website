@@ -1,5 +1,5 @@
 +++
-title = "Overview"
+title = "Econ 526 - Introduction to Econometrics (Fall 2018)"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -10,15 +10,18 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.teaching]
-  name = "Econ 526 - Introduction to Econometrics (Spring 2019)"
+  name = "Econ 526 - Introduction to Econometrics"
   weight = 1
 +++
 
-This feature can be used for publishing content such as:
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+
+
+
+
+
+
+
 
 The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
 
