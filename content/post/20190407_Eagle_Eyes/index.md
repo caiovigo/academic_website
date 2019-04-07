@@ -25,7 +25,7 @@ draft = false
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Sorry for the low-quality image."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -36,10 +36,10 @@ draft = false
 
 # Set captions for image gallery.
 
-[[gallery_item]]
-album = "gallery"
-image = "Professor_Dr_Hausman.jpg"
-caption = ""
+# [[gallery_item]]
+# album = "gallery"
+# image = "Professor_Dr_Hausman.jpg"
+# caption = ""
 
 +++
     
@@ -53,8 +53,8 @@ In one of the Econometrics sessions in this weekend conference, the person above
 
 **PERSON (Professor Dr. Hausman)**: (smiling) Well, I swear I wasn't your referee.
 
-Takeaway: perhaps, in the day that you can spot the **truly important** issues with this easiness (and effortless + quickly), this could be a sign that you reached another level in your field. Professor Hausman (yes, the same from the Durbin-Wu-Hausman test of endogeneity) didn't need the time to read and review the paper. He spotted from far away what matters.
+Takeaway: perhaps, in the day that you can spot the **truly important** issues with this easiness (and effortless and quickly), this could be a sign that you reached another level in your field. Professor Hausman (yes, the same from the Durbin-Wu-Hausman test of endogeneity) didn't need the time to read and review the paper. He spotted "from far away" what matters.
 
-Notice that what should matter are the **truly important** issues. Not those irrelevant comments, raising concerns that make no difference to what is being studied, or that would produce infinitesimal changes with no marginal benefits to the final interpretation. Typically, those cosmetic observations with no role to the core model.
+In my opinion, the key point here are the **truly important** issues. Not those irrelevant comments, raising concerns that make no difference to what is being studied, or that would just produce infinitesimal changes with no marginal benefits to the final interpretation. Typically, these cosmetic observations play no role to the core model.
 
-{{< gallery >}}
+# {{< gallery >}}
