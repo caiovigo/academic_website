@@ -1,5 +1,5 @@
 +++
-title = "Slides"
+title = "Eagle eyes"
   
 date = 2019-04-01T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -12,10 +12,21 @@ list_format = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "/post/20190407/Professor_Dr_Hausman.jpg"
 caption = ""
 +++
     
-* Test
+In one of the Econometrics sessions in this weekend conference, the person above pictured was listening a 20-minutes presentation. As anyone can imagine, these sessions are too short, and therefore, hardly you can have a reasonable (full) view of the paper being presented. However, at the end of this specific presentation:
 
-Testing first post.
+**CHAIR**: Questions?
+
+**PERSON**: Just two observations. First one, and the least important one is how you constructed your likelihood function out of a Poisson distribution. But more importantly is how you modeled you equilibrium equations. In this case, your errors may have some issues, such as a type of correlation, and this might be a concern.
+
+**PRESENTER**: (smiling) Professor Hausman, you sound exactly like my referee! These are the two topics mentioned in the review.
+
+**PERSON (Professor Dr. Hausman)**: (smiling) Well, I swear I wasn't your referee.
+
+Takeaway: perhaps, in the day that you can spot the **truly important** issues with this easiness (and effortless + quickly), this could be a sign that you reached another level in your field. Professor Hausman (yes, the same from the Durbin-Wu-Hausman test of endogeneity) didn't need the time to read and review the paper. He spotted from far away what matters.
+
+Notice that what should matter are the **truly important** issues. Not those irrelevant comments, raising concerns that make no difference to what is being studied, or that would produce infinitesimal changes with no marginal benefits to the final interpretation. Typically, those cosmetic observations with no role to the core model.
+
