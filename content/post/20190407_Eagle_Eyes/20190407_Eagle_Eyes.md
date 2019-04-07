@@ -25,7 +25,7 @@ draft = false
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-# caption = ""
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -41,10 +41,6 @@ album = "gallery"
 image = "Professor_Dr_Hausman.jpg"
 caption = ""
 
-# Optional featured image (relative to `static/img/` folder).
-# [header]
-# image = "/post/20190407/Professor_Dr_Hausman.jpg"
-# caption = ""
 +++
     
 In one of the Econometrics sessions in this weekend conference, the person above pictured was listening a 20-minutes presentation. As anyone can imagine, these sessions are too short, and therefore, hardly you can have a reasonable (full) view of the paper being presented. However, at the end of this specific presentation:
@@ -61,3 +57,4 @@ Takeaway: perhaps, in the day that you can spot the **truly important** issues w
 
 Notice that what should matter are the **truly important** issues. Not those irrelevant comments, raising concerns that make no difference to what is being studied, or that would produce infinitesimal changes with no marginal benefits to the final interpretation. Typically, those cosmetic observations with no role to the core model.
 
+{{< gallery >}}
