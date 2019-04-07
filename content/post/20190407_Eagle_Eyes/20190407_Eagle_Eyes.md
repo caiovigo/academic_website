@@ -1,19 +1,50 @@
 +++
 title = "Eagle eyes"
-  
-date = 2019-04-01T00:00:00
-# lastmod = 2018-09-09T00:00:00
+# subtitle = ""
 
-# draft = false  # Is this a draft? true/false
-# toc = true  # Show table of contents? true/false
-# type = "docs"  # Do not modify.
+date = 2019-04-07T00:00:00
+# lastmod = 2019-04-07T00:00:00
 
-list_format = 2
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+# authors = ["admin"]
+
+# tags = ["Academic"]
+# summary = ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+# projects = ["internal-project"]
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+# caption = ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
+
+# Set captions for image gallery.
+
+[[gallery_item]]
+album = "gallery"
+image = "Professor_Dr_Hausman.jpg"
+caption = ""
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "/post/20190407/Professor_Dr_Hausman.jpg"
-caption = ""
+# [header]
+# image = "/post/20190407/Professor_Dr_Hausman.jpg"
+# caption = ""
 +++
     
 In one of the Econometrics sessions in this weekend conference, the person above pictured was listening a 20-minutes presentation. As anyone can imagine, these sessions are too short, and therefore, hardly you can have a reasonable (full) view of the paper being presented. However, at the end of this specific presentation:
