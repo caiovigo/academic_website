@@ -86,6 +86,16 @@ interests = [
   link = "https://www.linkedin.com/in/caio-vigo-pereira/"
 
 [[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=FbatCKoAAAAJ&hl=en/"
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Caio_Vigo_Pereira/"
+  
+[[social]]
   icon = "lattes"
   icon_pack = "ai"
   link = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4480021E0&idiomaExibicao=2"
