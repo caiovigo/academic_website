@@ -14,7 +14,7 @@ type = "docs"  # Do not modify.
 #   weight = 1
 +++
 
-Use the left menus to access the course materials. The following courses/semesters are available:
+Use the left menu to access the course materials. The following courses/semesters are available:
 
 * **Econ 526 - Introduction to Econometrics (Fall 2018)**
 
