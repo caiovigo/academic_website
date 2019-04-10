@@ -13,3 +13,9 @@ type = "docs"  # Do not modify.
 #   name = "Econ 526 - Introduction to Econometrics"
 #   weight = 1
 +++
+
+Use the left menus to access the course materials. The following courses/semesters are available:
+
+* **Econ 526 - Introduction to Econometrics (Fall 2018)**
+
+* **Econ 526 - Introduction to Econometrics (Spring 2019)**
