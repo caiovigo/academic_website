@@ -54,7 +54,7 @@ url_project = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-url_slides = 
+url_slides = ""
 # "files/Slides_16EBFin.pdf"
 url_video = ""
 url_poster = ""
