@@ -1,5 +1,5 @@
 +++
-title = [Working Paper] "Portfolio efficiency tests with conditioning information - Comparing GMM and GEL estimators", (Submitted)
+title = "[Working Paper] Portfolio efficiency tests with conditioning information - Comparing GMM and GEL estimators, (Submitted)"
 date = 2016-07-01T00:00:00
 draft = false
 
@@ -22,7 +22,8 @@ publication = "WP"
 publication_short = ""
 
 # Abstract and optional shortened version.
-# abstract = "We evaluate the use of Generalized Empirical Likelihood (GEL) estimators in portfolio efficiency tests for asset pricing models in the presence of conditional information. Estimators from GEL family present some optimal statistical properties, such as robustness to misspecification and better properties in finite samples. Unlike GMM, the bias for GEL estimators do not increase with the number of moment conditions included, which is expected in conditional efficiency analysis. By means of Monte Carlo experiments, we show that GEL estimators has better performance in the presence of data contaminations, especially under heavy tails and outliers. We also see that efficiency tests using GEL generate lower estimates compared to tests using the standard approach with GMM."
+abstract = ""
+# "We evaluate the use of Generalized Empirical Likelihood (GEL) estimators in portfolio efficiency tests for asset pricing models in the presence of conditional information. Estimators from GEL family present some optimal statistical properties, such as robustness to misspecification and better properties in finite samples. Unlike GMM, the bias for GEL estimators do not increase with the number of moment conditions included, which is expected in conditional efficiency analysis. By means of Monte Carlo experiments, we show that GEL estimators has better performance in the presence of data contaminations, especially under heavy tails and outliers. We also see that efficiency tests using GEL generate lower estimates compared to tests using the standard approach with GMM."
 # abstract_short = ""
 
 # Is this a featured publication? (true/false)
