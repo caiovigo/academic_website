@@ -19,3 +19,5 @@ Use the left menu to access the course materials. The following courses/semester
 * **Econ 526 - Introduction to Econometrics (Fall 2018)**
 
 * **Econ 526 - Introduction to Econometrics (Spring 2019)**
+
+* **Econ 526 - Introduction to Econometrics (Summer 2019)**
