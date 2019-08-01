@@ -2,7 +2,7 @@
 title = "Grad Certificates"
 # subtitle = ""
 
-date = 2019-04-07T00:00:00
+date = 2019-08-01T00:00:00
 # lastmod = 2019-08-01T00:00:00
 
 draft = false
@@ -25,11 +25,11 @@ draft = false
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Looks like that now I'm not allowed anymore to attend grad classes at the Math and the Computer Science departments."
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "BottomRigh"
 
   # Show image only in page previews?
   preview_only = false
