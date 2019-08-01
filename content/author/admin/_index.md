@@ -40,7 +40,7 @@ interests = [
 [[education.courses]]
   course = "Graduate Certificate in Applied Mathematics"
   institution = "The University of Kansas (KU)"
-  year = 2018  
+  year = 2019  
 
 [[education.courses]]
   course = "MA in Economics"
