@@ -37,16 +37,16 @@ draft = false
 +++
     
 
-**p-hacking**
-
-
-**data snopping**
-
-
-**overfitting**
-
-
-**oracle property**
-
-
-**curse of dimensionality**
+# **p-hacking**
+# 
+# 
+# **data snopping**
+# 
+# 
+# **overfitting**
+# 
+# 
+# **oracle property**
+# 
+# 
+# **curse of dimensionality**

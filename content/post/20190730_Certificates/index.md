@@ -1,9 +1,9 @@
 +++
-title = "Eagle eyes"
+title = "Grad Certificates"
 # subtitle = ""
 
 date = 2019-04-07T00:00:00
-# lastmod = 2019-04-07T00:00:00
+# lastmod = 2019-08-01T00:00:00
 
 draft = false
 
@@ -25,11 +25,11 @@ draft = false
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Sorry for the low-quality image."
+  caption = "Looks like that now I'm not allowed anymore to attend grad classes at the Math and the Computer Science departments."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Smart"
 
   # Show image only in page previews?
   preview_only = false
@@ -38,23 +38,25 @@ draft = false
 
 # [[gallery_item]]
 # album = "gallery"
-# image = "Professor_Dr_Hausman.jpg"
+# image = "Certificates.jpg"
 # caption = ""
 
 +++
-    
-In one of the Econometrics sessions in this weekend conference, the person above pictured was listening a 20-minutes presentation. As anyone can imagine, these sessions are too short, and therefore, hardly you can have a reasonable (full) view of the paper being presented. However, at the end of this specific presentation:
 
-**CHAIR**: Questions?
+Looks like that I'm not allowed anymore to attend grad classes at the Math and the Computer Science departments.
 
-**PERSON**: Just two observations. First one, and the least important one is how you constructed your likelihood function out of a Poisson distribution. But more importantly is how you modeled you equilibrium equations. In this case, your errors may have some issues, such as a type of correlation, and this might be a concern.
+For a person who attended pretty much all my courses (higher education level) in Econ departments (either in US or in Brazil), I really enjoyed the view of the other side of the fence.
 
-**PRESENTER**: (smiling) Professor Hausman, you sound exactly like my referee! These are the two topics mentioned in the review.
+Each department and study field has their own way of thinking and solving problems. The approach to acquire knowledge and skills also differ quite a bit, even though these three fields (Economics, Mathematics and Computer Science) are not that apart from each other.
 
-**PERSON (Professor Dr. Hausman)**: (smiling) Well, I swear I wasn't your referee.
+One thing is pretty clear. They evaluate differently students:
 
-Takeaway: perhaps, in the day that you can spot the `truly important` issues with this easiness (and effortless and quickly), this could be a sign that you reached another level in your field. Professor Hausman (yes, the same from the Durbin-Wu-Hausman test of endogeneity) didn't need the time to read and review the paper. He spotted "from far away" what matters.
+* **Econ**: We love exams. Everything boils down to a theory and, indeed, exam is one of the best way to assess knowledge acquired.
 
-In my opinion, the key point here are the `truly important` issues. Not those irrelevant comments, raising concerns that make no difference to what is being studied, or that would just produce infinitesimal changes with no marginal benefits to the final interpretation. Typically, these cosmetic observations play no role to the core model.
+* **Math**: same thing, with a lot of homework!
+
+* **Computer Science (CS)**: Why exams if you can work in projects? Each one of them them may take weeks (or months?!). For a `Data Mining` class, the final project took me several weeks of coding. `Machine Learning`, had several small ones and a big project at the end.
+
+A final word: it's clear the relation of Economics and Math (especially statistics). No doubts about this claim. What is not that evident, and fortunately is changing fastly, is the importance of CS for modern economics. CS skills is for economics today, what math was in the begning of 20th century. Don't cry, just code the algorithm! :)
 
 # {{< gallery >}}

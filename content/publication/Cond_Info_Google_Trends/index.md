@@ -41,7 +41,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/Cond_Info_Google_Trends.pdf"
+url_pdf = ""
+# "files/Cond_Info_Google_Trends.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -52,7 +53,8 @@ url_project = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-url_slides = "files/third_year_presentation.pdf"
+url_slides = ""
+# "files/third_year_presentation.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
