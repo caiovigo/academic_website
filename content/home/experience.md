@@ -28,6 +28,8 @@ date_format = "January 2006"
   description = """
   Courses:
   
+  * Introduction to Econometrics (Fall 2019)
+  * Introduction to Econometrics (Summer 2019)
   * Introduction to Econometrics (Spring 2019)
   * Introduction to Econometrics (Fall 2018)
   * Intermediate Macroeconomics (Spring 2018)

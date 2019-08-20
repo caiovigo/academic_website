@@ -1,5 +1,5 @@
 +++
-title = "[Working Paper] Portfolio efficiency tests with conditioning information - Comparing GMM and GEL estimators, (Submitted)"
+title = "[Working Paper] Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)"
 date = 2016-07-01T00:00:00
 draft = false
 
