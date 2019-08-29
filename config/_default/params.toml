@@ -57,8 +57,8 @@ phone = "+1 (785) 864-8197"
 address = "1460 Jayhawk Blvd - Snow Hall, Room 337, The University of Kansas, USA, 66045, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Tuesday 12:15 to 1:45<br>
-                  Thursday 12:15 to 1:45<br>
+office_hours = """Tuesday 12:15 to 1:45 PM<br>
+                  Thursday 12:15 to 1:45 PM<br>
                   Otherwise email to book an appointment"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).

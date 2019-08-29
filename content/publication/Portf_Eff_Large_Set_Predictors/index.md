@@ -1,6 +1,6 @@
 +++
 title = "Portfolio Efficiency with a Large Set of Predictors as Conditioning Information"
-date = 2019-08-20T00:00:00
+date = 2019-08-28T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
