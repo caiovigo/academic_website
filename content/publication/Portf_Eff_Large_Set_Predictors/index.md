@@ -22,7 +22,7 @@ publication = "WP"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "We build efficient portfolios using three different frameworks proposed in the literature with several datasets containing an increasing number of predictors as conditioning information. We carry an extensive empirical study to investigate several approaches to deal with sparsity, dimensionality reduction and latent factors driving the returns of the risky assets. In contrast to previous studies that made use of standard OLS and few instruments, we find that (i) accounting for large information sets, and (ii) the use of variable selection, shrinkage methods and factors models, such as the principal component regression and the partial least squares provide better out-of-sample results as measured by sharpe ratios."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
