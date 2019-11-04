@@ -1,5 +1,5 @@
 +++
-title = "Portfolio Efficiency with a Large Set of Predictors as Conditioning Information"
+title = "[Working Paper] Portfolio Efficiency with High-Dimensional Data as Conditioning Information"
 date = 2019-08-28T00:00:00
 draft = false
 
