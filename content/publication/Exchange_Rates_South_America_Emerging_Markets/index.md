@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "bayesian_paraguay_exchange_rate_(v2).pdf"
+url_pdf = "bayesian_paraguay_exchange_rate_v2.pdf"
 # "files/Cond_Info_Google_Trends.pdf"
 url_preprint = ""
 url_code = ""

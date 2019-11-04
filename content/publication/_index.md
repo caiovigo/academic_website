@@ -20,7 +20,7 @@ caption = ""
  <font size="3"> (with. M. Laurini) </font>
 
 
-* {{% staticref "publication/Paraguay_Exchange_Rate" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}  
+* {{% staticref "publication/Exchange_Rates_South_America_Emerging_Markets" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}  
  <font size="3"> (with L. Molinas Sosa) </font> 
 
 
