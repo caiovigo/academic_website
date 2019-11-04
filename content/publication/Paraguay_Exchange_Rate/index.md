@@ -1,5 +1,5 @@
 +++
-title = "[Working Paper] Exchange Rates in South America’s Emerging Markets, (Submitted)"
+title = "[WP] Exchange Rates in South America’s Emerging Markets, (Submitted)"
 date = 2019-11-04T00:00:00
 draft = false
 

@@ -1,5 +1,5 @@
 +++
-title = "[Working Paper]" <br> <font size="4"> "Optimal Conditioning Information with Google’s Search Queries for Portfolio Management" </font> 
+title = "[WP] Optimal Conditioning Information with Google’s Search Queries for Portfolio Management"
 date = 2018-12-07T00:00:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "WP"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This paper studies new sources of signals to be incorporated in a mean-variance framework for portfolio optimization. We assess the performance of unconditionally efficient strategies from Chiang [2015] using Google Trends as conditioning information, both in sample and out of sample. Comparing with standard instruments used in this type of analysis, we show that Google Trends data improves the risk-return trade-off. However, Google Trends signals are more volatile when used in weekly data. The motivation for this approach comes from the growing nowcasting literature, which has shown to be useful in forecast near-term values of economic indicators."
+abstract =  <font size="3"> "This paper studies new sources of signals to be incorporated in a mean-variance framework for portfolio optimization. We assess the performance of unconditionally efficient strategies from Chiang [2015] using Google Trends as conditioning information, both in sample and out of sample. Comparing with standard instruments used in this type of analysis, we show that Google Trends data improves the risk-return trade-off. However, Google Trends signals are more volatile when used in weekly data. The motivation for this approach comes from the growing nowcasting literature, which has shown to be useful in forecast near-term values of economic indicators." </font> 
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
