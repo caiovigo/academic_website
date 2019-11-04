@@ -1,6 +1,6 @@
 +++
 title = "[Working Paper] Portfolio Efficiency with High-Dimensional Data as Conditioning Information"
-date = 2019-08-28T00:00:00
+date = 2019-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,11 +22,11 @@ publication = "WP"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We build efficient portfolios using three different frameworks proposed in the literature with several datasets containing an increasing number of predictors as conditioning information. We carry an extensive empirical study to investigate several approaches to deal with sparsity, dimensionality reduction and latent factors driving the returns of the risky assets. In contrast to previous studies that made use of standard OLS and few instruments, we find that (i) accounting for large information sets, and (ii) the use of variable selection, shrinkage methods and factors models, such as the principal component regression and the partial least squares provide better out-of-sample results as measured by sharpe ratios."
+abstract = "In this paper we build efficient portfolios using three different frameworks proposed in the literature with several datasets containing an increasing number of predictors as conditioning information. We carry an extensive empirical study to investigate several approaches to impose sparsity and dimensionality reduction, as well as possible latent factors driving the returns of the risky assets.  In contrast to previous studies that made use of naive OLS and low-dimension information sets, we find that (i) accounting for large conditioning information sets, and (ii) the use of variable selection, shrinkage methods and factors models, such as the principal component regression and the partial least squares provide better out-of-sample results as measured by Sharpe ratios."
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -1,10 +1,10 @@
 +++
-title = "Optimal Conditioning Information with Google’s Search Queries for Portfolio Management"
+title = "[Working Paper] Optimal Conditioning Information with Google’s Search Queries for Portfolio Management"
 date = 2018-12-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Caio Vigo Pereira", "Zongwu Cai"]
+authors = ["Caio Vigo Pereira"]
 
 # Publication type.
 # Legend:
