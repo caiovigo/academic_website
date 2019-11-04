@@ -6,7 +6,7 @@ title = "Research"
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 2
+view = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -16,7 +16,7 @@ caption = ""
 
 ## Papers under Revision
 
-* {{% staticref "publication/Article_EBErev/index.md" "newtab" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
+* {{% staticref "publication/Article_EBErev" "newtab" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
 (with. M. Laurini)
 
 
