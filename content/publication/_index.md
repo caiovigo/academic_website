@@ -9,29 +9,33 @@ title = "Research"
 # view = 1
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# [header]
+# image = ""
+# caption = ""
 +++
 
-## Papers under Revision
+### **Papers under Revision**
 
-* {{% staticref "publication/Article_EBErev" "newtab" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
+* {{% staticref "publication/Article_EBErev" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
 (with. M. Laurini)
 
 
-* {{% staticref "publication/Paraguay_Exchange_Rate" "newtab" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}  
+* {{% staticref "publication/Paraguay_Exchange_Rate" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}  
 (with L. Molinas Sosa)
 
 
+<br>
+<br>
 
 ## Working Papers
 
-* {{% staticref "publication/Portf_Eff_Large_Set_Predictors" "newtab" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information**{{% /staticref %}}
+* {{% staticref "publication/Portf_Eff_Large_Set_Predictors" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information**{{% /staticref %}}
 
 
 * {{% staticref "publication/Cond_Info_Google_Trends" %}}**Optimal Conditioning Information with Google’s Search Queries for Portfolio Management**{{% /staticref %}}
 
 
-
+<br>
+<br>
+<br>
 
