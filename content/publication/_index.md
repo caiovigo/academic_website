@@ -16,14 +16,18 @@ caption = ""
 
 ## Papers under Revision
 
-* {{% staticref "content/publication/Article_EBErev/index.md" "newtab" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}
+* {{% staticref "publication/Article_EBErev/index.md" "newtab" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
 (with. M. Laurini)
 
-* {{% staticref "content/publication/Paraguay_Exchange_Rate/index.md" "newtab" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}
+
+* {{% staticref "publication/Paraguay_Exchange_Rate/index.md" "newtab" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}  
 (with L. Molinas Sosa)
+
+***
 
 ## Working Papers
 
-* {{% staticref "content/publication/Portf_Eff_Large_Set_Predictors/index.md" "newtab" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information**{{% /staticref %}}
+* {{% staticref "publication/Portf_Eff_Large_Set_Predictors/index.md" "newtab" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information**{{% /staticref %}}
 
-* {{% staticref "content/publication/Cond_Info_Google_Trends/index.md" %}}**Optimal Conditioning Information with Google’s Search Queries for Portfolio Management**{{% /staticref %}}
+
+* {{% staticref "publication/Cond_Info_Google_Trends/index.md" %}}**Optimal Conditioning Information with Google’s Search Queries for Portfolio Management**{{% /staticref %}}
