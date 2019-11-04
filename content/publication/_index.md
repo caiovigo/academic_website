@@ -13,3 +13,7 @@ view = 4
 image = ""
 caption = ""
 +++
+
+# Working Papers
+
+* {{% staticref "files/GTA_2019.02/Slides (Handout) - Caio - Appendix A and B (Wooldridge).pdf" "newtab" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}

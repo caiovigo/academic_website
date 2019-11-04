@@ -26,7 +26,7 @@ abstract = "This paper studies new sources of signals to be incorporated in a me
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

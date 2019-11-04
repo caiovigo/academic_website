@@ -26,7 +26,7 @@ abstract = "Since Meese and Rogoff (1983) results showed that no model could out
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
