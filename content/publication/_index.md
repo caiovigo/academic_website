@@ -17,7 +17,7 @@ caption = ""
 ### **Papers under Revision**
 
 * {{% staticref "publication/Article_EBErev" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
- <font size="1"> (with. M. Laurini) </font> 
+ <font size="2"> (with. M. Laurini) </font>
 
 
 * {{% staticref "publication/Paraguay_Exchange_Rate" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}  
@@ -25,9 +25,8 @@ caption = ""
 
 
 <br>
-<br>
 
-## **Working Papers**
+### **Working Papers**
 
 * {{% staticref "publication/Portf_Eff_Large_Set_Predictors" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information**{{% /staticref %}}
 
