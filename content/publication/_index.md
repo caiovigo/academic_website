@@ -16,7 +16,7 @@ caption = ""
 
 ### **Papers under Revision**
 
-* {{% staticref "publication/Article_EBErev" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
+* {{% staticref "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
  <font size="3"> (with. M. Laurini) </font>
 
 
@@ -28,7 +28,7 @@ caption = ""
 
 ### **Working Papers**
 
-* {{% staticref "publication/Portf_Eff_Large_Set_Predictors" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information**{{% /staticref %}}
+* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information**{{% /staticref %}}
 
 
 * {{% staticref "publication/Cond_Info_Google_Trends" %}}**Optimal Conditioning Information with Google’s Search Queries for Portfolio Management**{{% /staticref %}}

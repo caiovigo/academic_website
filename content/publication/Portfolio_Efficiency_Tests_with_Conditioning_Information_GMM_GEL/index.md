@@ -1,10 +1,10 @@
 +++
-title = "[WP] Exchange Rates in South America’s Emerging Markets, (Submitted)"
-date = 2019-11-04T00:00:00
+title = "[WP] Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)"
+date = 2016-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Luis Molinas Sosa", "Caio Vigo Pereira"]
+authors = ["Caio Vigo Pereira", "Márcio Poletti Laurini"]
 
 # Publication type.
 # Legend:
@@ -22,8 +22,8 @@ publication = "WP"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Since Meese and Rogoff (1983) results showed that no model could outperform a driftless random walk in predicting exchange rates, there have been many papers which have tried to find some forecasting methodology that could beat the random walk, at least for certain forecasting periods. The present paper compares the Purchasing Power Parity, the Uncovered Interest Rate, the Sticky Price, the Bayesian Model Averaging, and the Bayesian Vector Autoregression models to the random walk benchmark in forecasting exchange rates between the Paraguayan Guarani and the US Dollar, the Brazilian Real and the Argentinian Peso. Forecasts are evaluated under the criteria of Root Mean Square Error, Direction of Change, and the Diebold-Mariano statistic. The results indicate that in shorter horizon forecasting BMA and BVAR can perform better but other models outperform the random walk at longer horizons."
-abstract_short = ""
+abstract = "We evaluate the use of Generalized Empirical Likelihood (GEL) estimators in portfolio efficiency tests for asset pricing models in the presence of conditional information. Estimators from GEL family present some optimal statistical properties, such as robustness to misspecification and better properties in finite samples. Unlike GMM, the bias for GEL estimators do not increase with the number of moment conditions included, which is expected in conditional efficiency analysis. By means of Monte Carlo experiments we show that GEL estimators has better performance in the presence of data contaminations, especially under heavy tails and outliers.  An extensive empirical analysis shows the properties of the estimators for different sample sizes and portfolios types for two asset pricing models."
+# abstract_short = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -41,8 +41,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "bayesian_paraguay_exchange_rate_(v2).pdf"
-# "files/Cond_Info_Google_Trends.pdf"
+url_pdf = "Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL.pdf"
+# "files/Article_EBErev.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_project = ""
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 url_slides = ""
-# "files/third_year_presentation.pdf"
+# "files/Slides_16EBFin.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
@@ -71,12 +71,11 @@ math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: Authors"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+# [image]
+#   # Caption (optional)
+#   caption = "Image credit: Authors"
+ 
+#   # Focal point (optional)
+#   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+#   focal_point = ""
 +++
-

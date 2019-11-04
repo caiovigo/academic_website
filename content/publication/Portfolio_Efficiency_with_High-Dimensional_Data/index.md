@@ -1,10 +1,10 @@
 +++
-title = "[WP] Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)"
-date = 2016-07-01T00:00:00
+title = "[WP] Portfolio Efficiency with High-Dimensional Data as Conditioning Information"
+date = 2019-10-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Caio Vigo Pereira", "Márcio Poletti Laurini"]
+authors = ["Caio Vigo Pereira"]
 
 # Publication type.
 # Legend:
@@ -22,8 +22,8 @@ publication = "WP"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We evaluate the use of Generalized Empirical Likelihood (GEL) estimators in portfolio efficiency tests for asset pricing models in the presence of conditional information. Estimators from GEL family present some optimal statistical properties, such as robustness to misspecification and better properties in finite samples. Unlike GMM, the bias for GEL estimators do not increase with the number of moment conditions included, which is expected in conditional efficiency analysis. By means of Monte Carlo experiments we show that GEL estimators has better performance in the presence of data contaminations, especially under heavy tails and outliers.  An extensive empirical analysis shows the properties of the estimators for different sample sizes and portfolios types for two asset pricing models."
-# abstract_short = ""
+abstract = "In this paper we build efficient portfolios using three different frameworks proposed in the literature with several datasets containing an increasing number of predictors as conditioning information. We carry an extensive empirical study to investigate several approaches to impose sparsity and dimensionality reduction, as well as possible latent factors driving the returns of the risky assets.  In contrast to previous studies that made use of naive OLS and low-dimension information sets, we find that (i) accounting for large conditioning information sets, and (ii) the use of variable selection, shrinkage methods and factors models, such as the principal component regression and the partial least squares provide better out-of-sample results as measured by Sharpe ratios."
+abstract_short = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -42,7 +42,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-# "files/Article_EBErev.pdf"
+# "files/Cond_Info_Google_Trends.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_project = ""
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 url_slides = ""
-# "files/Slides_16EBFin.pdf"
+# "files/third_year_presentation.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
@@ -71,11 +71,12 @@ math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# [image]
-#   # Caption (optional)
-#   caption = "Image credit: Authors"
- 
-#   # Focal point (optional)
-#   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#   focal_point = ""
+[image]
+  # Caption (optional)
+  caption = "Image credit: Authors"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++
+
