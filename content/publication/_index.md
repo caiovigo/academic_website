@@ -6,7 +6,7 @@ title = "Research"
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 3
+view = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -23,7 +23,7 @@ caption = ""
 * {{% staticref "publication/Paraguay_Exchange_Rate/index.md" "newtab" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}  
 (with L. Molinas Sosa)
 
-***
+
 
 ## Working Papers
 
