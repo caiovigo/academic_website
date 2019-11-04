@@ -17,7 +17,7 @@ caption = ""
 ### **Papers under Revision**
 
 * {{% staticref "publication/Article_EBErev" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
- <font size="2"> (with. M. Laurini) </font>
+ <font size="3"> (with. M. Laurini) </font>
 
 
 * {{% staticref "publication/Paraguay_Exchange_Rate" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}  

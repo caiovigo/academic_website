@@ -1,5 +1,5 @@
 +++
-title = "[Working Paper] <br> Optimal Conditioning Information with Google’s Search Queries for Portfolio Management"
+title = "[Working Paper]" <br> <font size="4"> "Optimal Conditioning Information with Google’s Search Queries for Portfolio Management" </font> 
 date = 2018-12-07T00:00:00
 draft = false
 
