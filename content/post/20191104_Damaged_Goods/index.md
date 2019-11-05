@@ -82,6 +82,6 @@ The final question is: this act from Tesla to respond to Hurricane Irma (in Flor
 <br>
 <br>
 
- <font size="3"> Deneckere, Raymond J., and R. Preston McAfee. "Damaged goods." *Journal of Economics & Management Strategy* 5, no. 2 (1996): 149-174. </font>
+<font size="3"> Deneckere, Raymond J., and R. Preston McAfee. "Damaged goods." *Journal of Economics & Management Strategy* 5, no. 2 (1996): 149-174. </font>
 
 # {{< gallery >}}
