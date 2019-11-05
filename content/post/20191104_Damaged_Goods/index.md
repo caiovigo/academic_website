@@ -65,14 +65,16 @@ Anyway, after this is done, in order to be able to capture revenue from those cu
 So, what do you do in this case? Pure product differentiation? Huh... sure you may do it. Given the similarities between both model S (lower) and X (top product) - what after this fact turns out to be even more clear - looks like they went for a `damaged good` strategy. Which sounds pretty reasonable.
 
 
-Thus, after the first round of designing, engineering and R&D, you pick a group of engineering team to work in a way to make the car (especially the battery) that already was designed to be able to drive faster, to start to drive slower safely. The important is, if this can be done only with software instructions, the better. Otherwise, you will need to develop a hardware element or new parts to be plugged to the original car version (model X). Does not matter which one is necessary, either way it will cost you more to produce the (pretty much) same car. Yep! This second round of R&D cost you money. And to do it, online without any hardware or piece to be installed (or removed - hence, no labor involved in the operation), as it is the apparently so well designed Tesla's case, it cost to your company even more greenbacks.
+Thus, after the first round of designing, engineering and R&D, you pick a group of engineers to work in a way to make the car (please, read the battery) that already was designed to be able to drive farther, to only be able to range, say 80% compared to its main model. Importantly, when redesigning the instructions (software), this should be done with a huge safety concern. Well, look at the recent Boeing's case (737 Max) and its malfunctioning software flight-control system (MCAS). 
+
+
+The important is, if this can be done only with software instructions, the better. Otherwise, you will need to develop a hardware element or new parts to be plugged to the original car version (model X). Does not matter which one is necessary, either way it will cost you more to produce the (pretty much) same car. Yep! This second round of R&D cost you money. And to do it, online without any hardware or piece to be installed (or removed - hence, no labor involved in the operation), as it is the apparently so well designed Tesla's case, it cost to your company even more greenbacks.
 
 
 However, in some cases when a company go for a damaged good strategy they may need to add a component, making the cost of producing the cheaper product even more expensive. For example, as Deneckere and McAfee (1996) mentions in 1990 IBM made and sold a laser print (*IBM LaserPrinter E.*) identical and cheaper than the top one, except that it contained extra chips to slow down the printing speed.
 
 
-Despite all these facts, I must say that there is no need to worry with the poor Tesla's customers - or with IBM's laser print as well.
-It is important to mention if a company can implement a damaged-good, it has some sort of market power (clearly Tesla does in its market), and that doing so it may be Pareto improving, which is the way economists say that this allocation can one person better off without making any other individual worse off. So, at least no one, neither (unlucky) customers or (poor) Tesla/Musk is a worst situation with this strategy. Thus, clearly there is no need to use the adjectives in parenthesis in the previous sentence.
+Despite all these facts, I must say that there is no need to worry with the fate or current situation of the poor Tesla's customers - or with IBM's laser print as well. It is important to mention that if a company can implement a damaged-good, it has some sort of market power (clearly, Tesla does in the market it operates), and that doing so it may be **Pareto improving**, which is the way economists say that in this allocation one person can be better off without making any other individual worse off. So, at least no one, neither (unlucky) customers or (poor) Tesla/Musk is a worst off with this strategy. Thus, evidently there is no need to use the adjectives in parenthesis in the previous sentence. Here, the low-value buyer is better off.
 
 
 The final question is: this act from Tesla to respond to Hurricane Irma (in Florida, Sep/2019) was an exemplary good faith or pure marketing?
@@ -80,6 +82,6 @@ The final question is: this act from Tesla to respond to Hurricane Irma (in Flor
 <br>
 <br>
 
-Deneckere, Raymond J., and R. Preston McAfee. "Damaged goods." *Journal of Economics & Management Strategy* 5, no. 2 (1996): 149-174.
+ <font size="3"> Deneckere, Raymond J., and R. Preston McAfee. "Damaged goods." *Journal of Economics & Management Strategy* 5, no. 2 (1996): 149-174. </font>
 
 # {{< gallery >}}
