@@ -1,8 +1,8 @@
 +++
-title = "I Damaged It, and You Buy It! But You Still Have a Nice Car"
+title = "I damaged it, you buy it, but you still have a nice car"
 # subtitle = ""
 
-date = 2019-08-01T00:00:00
+date = 2019-11-05T00:00:00
 # lastmod = 2019-08-01T00:00:00
 
 draft = false
@@ -29,7 +29,7 @@ draft = false
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "BottomRigh"
+  focal_point = "Smart"
 
   # Show image only in page previews?
   preview_only = false
