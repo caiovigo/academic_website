@@ -1,5 +1,5 @@
 +++
-title = "I damaged it, you buy it, but you still have a nice car"
+title = "I damage it, you buy it, but you still have a nice car"
 # subtitle = ""
 
 date = 2019-11-05T00:00:00
@@ -43,10 +43,10 @@ draft = false
 
 +++
 
-Price discrimination is a fascinating topic in Industrial Organization (I.O., henceforth), which is one of the most interesting sub fields in Microeconomics for me. When I first took an I.O. course, back in Brazil during my undergraduate studies, I remember the discussion of `damaged goods`. Until that point, I couldn't see how the topics of I.O. was different from what I had already learned in a previous class (namely Microeconomics II). But `damaged goods` and the posterior topics changed everything.
+Price discrimination is a fascinating topic in Industrial Organization (I.O., henceforth), which is one of the most interesting sub fields in Microeconomics for me. When I first took an I.O. course, back in Brazil during my undergraduate studies, I remember the discussion of `damaged goods`. Until that point, I couldn't see how the topics of I.O. were different from what I had already learned in a previous class (namely Microeconomics II). But `damaged goods` and the followingr topics changed everything.
 
 
-Before diving into it, few weeks ago [The Economist](https://www.economist.com/leaders/2019/09/12/how-the-world-will-change-as-computers-spread-into-everyday-objects) covered in its print edition about technology, the following:
+Before diving into it, a few weeks ago [The Economist](https://www.economist.com/leaders/2019/09/12/how-the-world-will-change-as-computers-spread-into-everyday-objects) covered in its print edition about technology, the following:
 
 
 > ON AUGUST 29TH, as Hurricane Dorian tracked towards America’s east coast, Elon Musk, the boss of Tesla, an electric-car maker, announced that some of his customers in the storm’s path would find that their cars had suddenly developed the ability to drive farther on a single battery charge. Like many modern vehicles, Mr Musk’s products are best thought of as internet-connected computers on wheels. The cheaper models in Tesla’s line-up have parts of their batteries disabled by the car’s software in order to limit their range. At the tap of a keyboard in Palo Alto, the firm was able to remove those restrictions and give drivers temporary access to the full power of their batteries.
