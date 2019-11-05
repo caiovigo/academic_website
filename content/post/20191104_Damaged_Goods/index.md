@@ -46,7 +46,7 @@ draft = false
 Price discrimination is a fascinating topic in Industrial Organization (I.O., henceforth), which is one of the most interesting sub fields in Microeconomics for me. When I first took an I.O. course, back in Brazil during my undergraduate studies, I remember the discussion of `damaged goods`. Until that point, I couldn't see how the topics of I.O. was different from what I had already learned in a previous class (namely Microeconomics II). But `damaged goods` and the posterior topics changed everything.
 
 
-Before diving into it, few weeks ago [The Economist](https://www.economist.com/leaders/2019/09/12/how-the-world-will-change-as-computers-spread-into-everyday-objects) covered in its print edition about technology the following:
+Before diving into it, few weeks ago [The Economist](https://www.economist.com/leaders/2019/09/12/how-the-world-will-change-as-computers-spread-into-everyday-objects) covered in its print edition about technology, the following:
 
 
 > ON AUGUST 29TH, as Hurricane Dorian tracked towards America’s east coast, Elon Musk, the boss of Tesla, an electric-car maker, announced that some of his customers in the storm’s path would find that their cars had suddenly developed the ability to drive farther on a single battery charge. Like many modern vehicles, Mr Musk’s products are best thought of as internet-connected computers on wheels. The cheaper models in Tesla’s line-up have parts of their batteries disabled by the car’s software in order to limit their range. At the tap of a keyboard in Palo Alto, the firm was able to remove those restrictions and give drivers temporary access to the full power of their batteries.
@@ -56,13 +56,13 @@ Before diving into it, few weeks ago [The Economist](https://www.economist.com/l
 Even though the idea of price differentiation is not the main argument of the article, but when I read it, it was clear that Elon Musk and his Tesla's finance team designed the company's market strategy seeking to differentiate the models available to retail making use of the `damaged goods` method.
 
 
-How do you do that? Well, what probably happened with Tesla was the following. First, the engineers and the whole team around them designed the car and its computerized devices, battery and so on to be able to drive  - safely - as it top product (i.e., Model X) can. One of the most important parts of a Tesla (clearly not the only one), is the battery power and capability (what Musk's companies clearly have an advantage). 
+How do you do that? Well, what probably happened with Tesla was the following. First, the engineers and the whole team around them designed the car and its computerized devices, battery and so on to be able to drive  - safely - as it top product can. One of the most important parts of a Tesla - clearly not the only one - is the battery power and capability (what Musk's companies clearly have an advantage). 
 
 
-Anyway, after this is done, in order to be able to capture revenue from those customers with high reserve price (which can be understood as: *"Hey Musk, I'm willing to pay more. You know, I can. Just make a top high-tech, electric, self-driving car and I will buy it."*), without forgoing the revenue from those who don't have such a high reserve price (which can be understood as: *"Hey Musk, I'm willing to pay more for a high-tech, electric, self-driving car like yours compared to the majority available in the market, but I'm not willing to pay to have all the top features."*).
+Anyway, after this is done, in order to be able to capture revenue from those customers with high reserve price (which can be understood as: *"Hey Musk, I'm willing to pay more. You know, I can. Just make me a top high-tech, electric, self-driving car and I will buy it."*), without forgoing the revenue from those who don't have such a high reserve price (which can be understood as: *"Hey Musk, I'm willing to pay more for a high-tech, electric, self-driving car like yours compared to the majority available in the market, but I'm not willing to pay to have all the top features."*).
 
 
-So, what do you do in this case? Pure product differentiation? Huh... sure you may do it. Given the similarities between both model S (lower) and X (top product) - what after this fact turns out to be even more clear - looks like they went for a `damaged good` strategy. Which sounds pretty reasonable.
+So, what do you do in this case? Pure product differentiation? Huh... sure you may do it. Given the similarities between both models, S (lower) and X (top product), looks like they went for a `damaged good` strategy. Which sounds pretty reasonable.
 
 
 Thus, after the first round of designing, engineering and R&D, you pick a group of engineers to work in a way to make the car (please, read the battery) that already was designed to be able to drive farther, to only be able to range, say 80% compared to its main model. Importantly, when redesigning the instructions (software), this should be done with a huge safety concern. Well, look at the recent Boeing's case (737 Max) and its malfunctioning software flight-control system (MCAS). 
