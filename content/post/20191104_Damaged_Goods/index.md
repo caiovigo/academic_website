@@ -74,10 +74,10 @@ If this can be done only with software instructions, the better. Otherwise, you 
 However, in some cases, when a company go for a damaged good strategy they may need to add a component, making the cost of producing the cheaper product even more expensive. For example, as Deneckere and McAfee (1996) mentions in 1990 IBM made and sold a laser print (*IBM LaserPrinter E.*) identical and cheaper than the top one, except that it contained extra chips to slow down the printing speed.
 
 
-Despite all these facts, I must say that there is no need to worry with the fate of the poor Tesla's customers - or with IBM's laser print customers as well. It is important to mention that if a company can implement a damaged-good, it has some sort of market power. Clearly, Tesla does in the market it operates. Furthermore, doing so, it may be **Pareto improving**, which is the way economists say that in this allocation no one is worse off, and at least someone is better off. So, at least we know that no one, neither (unlucky) customers or (poor) Tesla/Musk is worse off with this strategy. Therefore, evidently, there is no need to use the adjectives in parenthesis in the previous sentence. Everyone is fine. Here, the low-value buyer is better off.
+Despite all these facts, I must say that there is no need to worry with the fate of the poor Tesla's customers - or with IBM's laser print customers as well. It is important to mention that if a company can implement a damaged-good strategy, it has some sort of market power. Clearly, Tesla does in the market it operates. Furthermore, doing so, it may be **Pareto improving**, which is the way economists say that in this allocation no one is worse off, and at least someone is better off. So, at least we know that no one, neither (unlucky) customers or (poor) Tesla/Musk is worse off with this strategy. Therefore, evidently, there is no need to use the adjectives in parenthesis in the previous sentence. Everyone is fine. Here, the low-value buyer is better off.
 
 
-The final question is: this act from Tesla to respond to Hurricane Irma (in Florida, Sep/2019) was an exemplar of good faith or pure marketing?
+The final question is: this act from Tesla to respond to Hurricane Irma (in Florida, Sep/2019) was an example of good faith or pure marketing?
 
 <br>
 <br>
