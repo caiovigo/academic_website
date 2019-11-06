@@ -46,7 +46,7 @@ draft = false
 Price discrimination is a fascinating topic in Industrial Organization (I.O., henceforth), which is one of the most interesting sub fields in Microeconomics for me. When I first took an I.O. course, back in Brazil during my undergraduate studies, I remember the discussion of `damaged goods`. Until that point, I couldn't see how the topics of I.O. were different from what I had already learned in a previous class (namely Microeconomics II). But `damaged goods` and the following topics changed everything.
 
 
-Before diving into it, a few weeks ago [The Economist](https://www.economist.com/leaders/2019/09/12/how-the-world-will-change-as-computers-spread-into-everyday-objects) covered in its print the following:
+Before diving into it, a few weeks ago [The Economist](https://www.economist.com/leaders/2019/09/12/how-the-world-will-change-as-computers-spread-into-everyday-objects) covered in its print edition the following:
 
 
 > ON AUGUST 29TH, as Hurricane Dorian tracked towards America’s east coast, Elon Musk, the boss of Tesla, an electric-car maker, announced that some of his customers in the storm’s path would find that their cars had suddenly developed the ability to drive farther on a single battery charge. Like many modern vehicles, Mr Musk’s products are best thought of as internet-connected computers on wheels. The cheaper models in Tesla’s line-up have parts of their batteries disabled by the car’s software in order to limit their range. At the tap of a keyboard in Palo Alto, the firm was able to remove those restrictions and give drivers temporary access to the full power of their batteries.
@@ -71,13 +71,13 @@ Thus, after the first round of designing, engineering and R&D, you pick a group 
 If this can be done only with software instructions, the better. Otherwise, you will need to develop a hardware element or new parts to be plugged in to the original car version. Does not matter which one is necessary, either way it will cost you more to produce the (pretty much) same car. Yep! This second round of R&D costs you money. And to do it online without any hardware or piece to be installed or removed (hence, no further labor involved in the operation), as apparently is the case of the so well-designed Tesla's car, it costs to your company even more greenbacks.
 
 
-However, in some cases, when a company go for a damaged good strategy they may need to add a component, making the cost of producing the cheaper product even more expensive. For example, as Deneckere and McAfee (1996) mentions in 1990 IBM made and sold a laser print (*IBM LaserPrinter E.*) identical and cheaper than the top one, except that it contained extra chips to slow down the printing speed.
+However, in some cases, when a company go for a damaged good strategy they may need to add a component, making the cost of producing the cheaper product even more expensive. For example, as Deneckere and McAfee (1996) mentions in 1990 IBM made and sold a laser print (*IBM LaserPrinter E.*) identical and cheaper than the top one, except that it contained extra chips **to slow down the printing speed.**
 
 
-Despite all these facts, I must say that there is no need to worry with the fate of the poor Tesla's customers - or with IBM's laser print customers as well. It is important to mention that if a company can implement a damaged-good strategy, it has some sort of market power. Clearly, Tesla does in the market it operates. Furthermore, doing so, it may be **Pareto improving**, which is the way economists say that in this allocation no one is worse off, and at least someone is better off. So, at least we know that no one, neither (unlucky) customers or (poor) Tesla/Musk is worse off with this strategy. Therefore, evidently, there is no need to use the adjectives in parenthesis in the previous sentence. Everyone is fine. Here, the low-value buyer is better off.
+Despite all these facts, I must say that there is no need to worry with the fate of the poor (?) Tesla's customers - or with IBM's laser print customers as well. It is important to mention that if a company can implement a damaged-good strategy, it has some sort of market power. Clearly, Tesla does in the market it operates. Furthermore, doing so, it may be **Pareto improving**, which is the way economists say that in this allocation no one is worse off, and at least someone is better off. So, at least we know that no one, neither (unlucky ?) customers or (poor ?) Tesla/Musk is worse off with this strategy. Therefore, evidently, there is no need to use the adjectives in parenthesis in the previous sentence. Everyone is fine! Here, the low-value buyer is better off.
 
 
-The final question is: this act from Tesla to respond to Hurricane Irma (in Florida, Sep/2019) was an example of good faith or pure marketing?
+The final question is: this act from Tesla to respond to a hurricane in Florida in September 2019 was an example of good faith or pure marketing?
 
 <br>
 <br>
