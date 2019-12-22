@@ -47,7 +47,4 @@ This year the **Modern Monetary Policy (MMT)** has gained a lot attention. It is
 
 
 > In the end, my study of MMT led me to find some common ground with its proponents without drawing all the radical inferences they do. I agree that the government can always print money to pay its bills. But that fact does not free the government from its intertemporal budget constraint. I agree that the economy normally operates with excess capacity, in the sense that the economy’s output often falls short of its optimum. But that conclusion does not mean that policymakers only rarely need to worry about inflationary pressures. I agree that, in a world of pervasive market power, government price setting might improve private price setting as a matter of economic theory. But that deduction does not imply that actual governments in actual economies can increase welfare by inserting themselves extensively in the price-setting process. 
-*(Mankiw, Gregory. 2019. A Skeptic’s Guide to Modern Monetary Theory)*
-
-
-# {{< gallery >}}
+*(Mankiw, N. Gregory. 2019. A Skeptic’s Guide to Modern Monetary Theory.)*
