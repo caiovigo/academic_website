@@ -16,9 +16,10 @@ caption = ""
 
 ### **Invited Publications**
 
-* {{% staticref "publication/Exchange_Rates_South_America_Emerging_Markets" %}}**Exchange Rates in South America’s Emerging Markets**  {{% /staticref %}}
- <font size="3"> (with L. Molinas Sosa)  </font>
- <font size="3"> ***Cambridge Elements in the Economics of Emerging Markets*** by Cambridge University Press (In Press) (with L. Molinas Sosa) </font>
+* {{% staticref "publication/Exchange_Rates_South_America_Emerging_Markets" %}}**Exchange Rates in South America’s Emerging Markets**{{% /staticref %}}
+<font size="3"> (with L. Molinas Sosa)  </font>
+
+<font size="3"> ***Cambridge Elements in the Economics of Emerging Markets*** by Cambridge University Press (In Press) (with L. Molinas Sosa) </font>
 
 <br>
  
