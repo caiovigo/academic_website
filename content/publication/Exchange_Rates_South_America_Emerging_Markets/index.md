@@ -1,5 +1,5 @@
 +++
-title = "[WP] Exchange Rates in South America’s Emerging Markets, (Submitted)"
+title = "Exchange Rates in South America’s Emerging Markets"
 date = 2019-11-04T00:00:00
 draft = false
 
@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "publication/Exchange_Rates_South_America_Emerging_Markets/bayesian_paraguay_exchange_rate_(v2).pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
