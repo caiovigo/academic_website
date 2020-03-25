@@ -14,24 +14,34 @@ image = ""
 caption = ""
 +++
 
+### **Invited Publications**
+
+* {{% staticref "publication/Exchange_Rates_South_America_Emerging_Markets" %}}**Exchange Rates in South America’s Emerging Markets**{{% /staticref %}}  
+ <font size="3"> (with L. Molinas Sosa) </font> 
+***Cambridge Elements in the Economics of Emerging Markets*** by Cambridge University Press (In Press) (with L. Molinas Sosa)
+
+<br>
+ 
 ### **Papers under Revision**
 
 * {{% staticref "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
  <font size="3"> (with. M. Laurini) </font>
 
-
-* {{% staticref "publication/Exchange_Rates_South_America_Emerging_Markets" %}}**Exchange Rates in South America’s Emerging Markets, (Submitted)**{{% /staticref %}}  
- <font size="3"> (with L. Molinas Sosa) </font> 
-
-
 <br>
 
 ### **Working Papers**
 
-* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information**{{% /staticref %}}
+* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}}
 
 
-* {{% staticref "publication/Cond_Info_Google_Trends" %}}**Optimal Conditioning Information with Google’s Search Queries for Portfolio Management**{{% /staticref %}}
+* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}}
+
+
+* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Identifying Short Lived Signals in Intraday Foreign Exchange Returns** (2020) {{% /staticref %}}
+ <font size="3"> (with L. A. Adams) </font> 
+ 
+
+* {{% staticref "publication/Cond_Info_Google_Trends" %}}**Optimal Conditioning Information with Google’s Search Queries for Portfolio Management** (2018) {{% /staticref %}}
 
 
 <br>
