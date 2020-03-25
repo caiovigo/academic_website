@@ -1,6 +1,6 @@
 +++
 title = "Exchange Rates in South America’s Emerging Markets"
-date = 2019-11-04T00:00:00
+date = 2020-02-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,8 @@ publication = "WP"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Since Meese and Rogoff (1983) results showed that no model could outperform a driftless random walk in predicting exchange rates, there have been many papers which have tried to find some forecasting methodology that could beat the random walk, at least for certain forecasting periods. The present paper compares the Purchasing Power Parity, the Uncovered Interest Rate, the Sticky Price, the Bayesian Model Averaging, and the Bayesian Vector Autoregression models to the random walk benchmark in forecasting exchange rates between the Paraguayan Guarani and the US Dollar, the Brazilian Real and the Argentinian Peso. Forecasts are evaluated under the criteria of Root Mean Square Error, Direction of Change, and the Diebold-Mariano statistic. The results indicate that in shorter horizon forecasting BMA and BVAR can perform better but other models outperform the random walk at longer horizons."
+abstract = "Since Meese and Rogoff (1983) results showed that no model could outperform a driftless random walk in predicting exchange rates, there have been many papers which have tried to find some forecasting methodology that could beat the random walk, at least for certain forecasting periods. The present paper compares the Purchasing Power Parity, the Uncovered Interest Rate, the Sticky Price, the Bayesian Model Averaging, and the Bayesian Vector Autoregression models to the random walk benchmark in forecasting exchange rates between most South American currencies and the US Dollar,and between the Paraguayan Guarani and the Brazilian Real and the Argentinian Peso. Forecasts are evaluated under the criteria of Root Mean Square Error, Direction of Change, and the Diebold-Mariano statistic. The results indicate that the two Bayesian models have greater forecasting power and that there is little evidence in favor of using the other three fundamentals models, except Purchasing Power Parity at longer forecasting horizons."
+
 abstract_short = ""
 
 # Is this a featured publication? (true/false)
