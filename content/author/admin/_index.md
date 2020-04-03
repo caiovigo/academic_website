@@ -115,7 +115,7 @@ interests = [
 [[social]]
   icon = "file-alt"
   icon_pack = "fas"
-  link = "files/Vigo_Pereira_Caio_Resume_website_version.pdf"
+  link = "files/Vigo_Pereira_Caio_Resume_2020_01_20.pdf"
 
 +++
 
