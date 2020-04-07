@@ -53,8 +53,8 @@ url_project = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-url_slides = "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/Presentation_(2020.03.19-26).pdf"
-# "files/third_year_presentation.pdf"
+url_slides = "" 
+# "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/Presentation_(2020.03.19-26).pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
