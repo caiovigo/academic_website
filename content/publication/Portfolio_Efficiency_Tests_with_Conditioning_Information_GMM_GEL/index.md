@@ -41,7 +41,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL.pdf"
+url_pdf = ""
+#"publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
