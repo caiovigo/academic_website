@@ -120,7 +120,7 @@ interests = [
 
 +++
 
-I am a Ph.D. candidate in Economics at the University of Kansas (KU). I hold a MA in Economics from University of Kansas (KU) (2018), a MSc in Applied Economics from the University of São Paulo (USP) (2016), and a BSc in Economics from the University of São Paulo (USP) (2011).
+I am a Ph.D. candidate in Economics and Econometrics at the University of Kansas (KU). I hold a MA in Economics from University of Kansas (KU) (2018), a MSc in Applied Economics from the University of São Paulo (USP) (2016), and a BSc in Economics from the University of São Paulo (USP) (2011).
 
 I have experience in Economics, with emphasis on Quantitative and Econometric Methods, Macro-Finance and Financial Econometrics. I work mainly with the following subjects: Asset Pricing and Econometrics in Finance. 
 
