@@ -21,16 +21,17 @@ email = "caiovigo@gmail.com"
 # List (academic) interests or hobbies
 interests = [
   "Quantitative and Econometrics Methods",
-  "Fiancial Econometrics",
+  "Financial Econometrics",
+  "Macro-Finance",
   "Time Series Analysis",
-  "Data Science"
+  "Data Science / Machine Learning"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Economics"
   institution = "The University of Kansas (KU)"
-  year = 2021
+  year = 2021 (Expected)
   
 [[education.courses]]
   course = "Graduate Certificate in Data Science"
@@ -110,15 +111,17 @@ interests = [
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/Vigo_Pereira,Caio_(CV).pdf"
+  link = "files/CV_(2020.07.10)_website_version.pdf"
   
 [[social]]
   icon = "file-alt"
   icon_pack = "fas"
-  link = "files/Vigo_Pereira_Caio_Resume_2020_01_20.pdf"
+  link = "files/Vigo_Pereira_Caio_Resume_website_version_2020_07_10.pdf"
 
 +++
 
 I am a Ph.D. candidate in Economics at the University of Kansas (KU). I hold a MA in Economics from University of Kansas (KU) (2018), a MSc in Applied Economics from the University of São Paulo (USP) (2016), and a BSc in Economics from the University of São Paulo (USP) (2011).
 
-I have experience in Economics, with emphasis on Quantitative and Econometric Methods, Time Series Analysis and Financial Econometrics. I work mainly with the following subjects: Asset Pricing and Econometrics in Finance. I am also a reviewer of the Brazilian Journal of Finance (RBFin) and the Journal of Management Science and Engineering (JMSE). Currently, I've been teaching Introduction to Econometrics at the University of Kansas.
+I have experience in Economics, with emphasis on Quantitative and Econometric Methods, Macro-Finance and Financial Econometrics. I work mainly with the following subjects: Asset Pricing and Econometrics in Finance. 
+
+<!-- I am also a reviewer of the Brazilian Journal of Finance (RBFin) and the Journal of Management Science and Engineering (JMSE). Currently, I've been teaching Introduction to Econometrics at the University of Kansas. -->

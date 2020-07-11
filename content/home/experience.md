@@ -28,6 +28,7 @@ date_format = "January 2006"
   description = """
   Courses:
   
+  * Introduction to Econometrics (Spring 2020)
   * Introduction to Econometrics (Fall 2019)
   * Introduction to Econometrics (Summer 2019)
   * Introduction to Econometrics (Spring 2019)
