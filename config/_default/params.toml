@@ -54,7 +54,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "caiovigo@gmail.com"
 phone = "+1 (785) 864-8197"
-address = "1460 Jayhawk Blvd - Snow Hall, Room 337, The University of Kansas, USA, 66045, USA"
+address = "1460 Jayhawk Blvd - Snow Hall, Room 318, The University of Kansas, USA, 66045, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Tuesday 12:15 to 1:45 PM<br>

@@ -27,7 +27,7 @@ weight = 8
 **Instructor of Record**
 Department of Economics, The University of Kansas (KU)
 
-* Introduction to Econometrics (Fall 2018, Spring 2019, Summer 2019 & Fall 2019)
+* Introduction to Econometrics (Fall 2018, Spring 2019, Summer 2019, Fall 2019 & Spring 2020)
 * Intermediate Macroeconomics (Spring 2018)
 
 

@@ -22,7 +22,7 @@ publication = "WP"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Since Meese and Rogoff (1983) results showed that no model could outperform a driftless random walk in predicting exchange rates, there have been many papers which have tried to find some forecasting methodology that could beat the random walk, at least for certain forecasting periods. The present paper compares the Purchasing Power Parity, the Uncovered Interest Rate, the Sticky Price, the Bayesian Model Averaging, and the Bayesian Vector Autoregression models to the random walk benchmark in forecasting exchange rates between most South American currencies and the US Dollar,and between the Paraguayan Guarani and the Brazilian Real and the Argentinian Peso. Forecasts are evaluated under the criteria of Root Mean Square Error, Direction of Change, and the Diebold-Mariano statistic. The results indicate that the two Bayesian models have greater forecasting power and that there is little evidence in favor of using the other three fundamentals models, except Purchasing Power Parity at longer forecasting horizons."
+abstract = "Since Meese and Rogoff (1983) results showed that no model could outperform a random walk in predicting exchange rates. Many papers have tried to find a forecasting methodology that could beat the random walk, at least for certain forecasting periods. This Element compares the Purchasing Power Parity, the Uncovered Interest Rate, the Sticky Price, the Bayesian Model Averaging, and the Bayesian Vector Autoregression models to the random walk benchmark in forecasting exchange rates between most South American currencies and the US Dollar, and between the Paraguayan Guarani and the Brazilian Real and the Argentinian Peso. Forecasts are evaluated under the criteria of Root Mean Square Error, Direction of Change, and the Diebold-Mariano statistic. The results indicate that the two Bayesian models have greater forecasting power and that there is little evidence in favor of using the other three fundamentals models, except Purchasing Power Parity at longer forecasting horizons."
 
 abstract_short = ""
 
@@ -57,7 +57,7 @@ url_slides = ""
 # "files/third_year_presentation.pdf"
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.cambridge.org/core/elements/exchange-rates-in-south-americas-emerging-markets/2E4390660B13D7525723492CF41B134D"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
