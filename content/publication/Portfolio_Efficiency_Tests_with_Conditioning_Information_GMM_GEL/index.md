@@ -4,7 +4,7 @@ date = 2016-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Caio Vigo Pereira", "Márcio Poletti Laurini"]
+authors = ["Caio Vigo Pereira", "Márcio Laurini"]
 
 # Publication type.
 # Legend:
@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421775"
 #"publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL.pdf"
 url_preprint = ""
 url_code = ""
