@@ -22,7 +22,8 @@ caption = ""
 
 <br>
  
-### **Papers under Revision**
+### **Submitted**
+<!-- Papers under Revision -->
 
 * {{% staticref "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
  <font size="3"> (with. M. Laurini) </font>
