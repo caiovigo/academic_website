@@ -25,7 +25,7 @@
   
 [[main]]
   name = "CV"
-  url = "files/Vigo_Pereira,Caio_(CV)_website_version.pdf"
+  url = {{% staticref "files/Vigo_Pereira,Caio_CV_website_version.pdf" "newtab" %}}
   weight = 5
   
 [[main]]

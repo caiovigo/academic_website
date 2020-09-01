@@ -111,7 +111,7 @@ interests = [
 [[social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/Vigo_Pereira,Caio_(CV)_website_version.pdf"
+  link = {{% staticref "files/Vigo_Pereira,Caio_CV_website_version.pdf" "newtab" %}}
   
 [[social]]
   icon = "file-alt"

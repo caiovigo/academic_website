@@ -42,7 +42,6 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-# "files/Cond_Info_Google_Trends.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
