@@ -18,7 +18,7 @@ caption = ""
 
 * {{% staticref "publication/Exchange_Rates_South_America_Emerging_Markets" %}}**Exchange Rates in South America’s Emerging Markets**{{% /staticref %}}  
 <font size="3"> (with L. Molinas Sosa)  </font>  
-<font size="3"> ***Cambridge Elements in the Economics of Emerging Markets*** by Cambridge University Press (In Press) </font>
+<font size="3"> ***Cambridge Elements in the Economics of Emerging Markets*** by Cambridge University Press </font>
 
 <br>
  
@@ -30,13 +30,12 @@ caption = ""
 
 <br>
 
+* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}}
+ 
 ### **Working Papers**
 
 * {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}}
 
-
-* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}}  
- <font size="3"> **[Ready for submission]** </font>
 
 * {{% staticref "publication/Identifying_Short_Lived_Signals_Intraday_Foreign_Exchange_Returns" %}}**Identifying Short Lived Signals in Intraday Foreign Exchange Returns** (2020) {{% /staticref %}}  
  <font size="3"> (with L. A. Adams) </font>

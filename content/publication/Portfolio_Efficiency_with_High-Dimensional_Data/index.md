@@ -1,5 +1,5 @@
 +++
-title = "[WP] Portfolio Efficiency with High-Dimensional Data as Conditioning Information"
+title = "[WP] \n Portfolio Efficiency with High-Dimensional Data as Conditioning Information"
 date = 2019-10-01T00:00:00
 draft = false
 
@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3682660"
 # "files/Cond_Info_Google_Trends.pdf"
 url_preprint = ""
 url_code = ""
