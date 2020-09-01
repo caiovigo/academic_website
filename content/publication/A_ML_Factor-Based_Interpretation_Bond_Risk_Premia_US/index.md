@@ -1,5 +1,5 @@
 +++
-title = "[WP] \n A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S."
+title = "A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S."
 date = 2020-03-25T00:00:00
 draft = false
 
@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "ML_Factor_Based_Interpretation_US_Bond_Premia.pdf"
+url_pdf = "/ML_Factor_Based_Interpretation_US_Bond_Premia.pdf"
 # "files/Cond_Info_Google_Trends.pdf"
 url_preprint = ""
 url_code = ""

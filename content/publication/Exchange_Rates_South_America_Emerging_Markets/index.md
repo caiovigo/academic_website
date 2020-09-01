@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.cambridge.org/core/elements/exchange-rates-in-south-americas-emerging-markets/2E4390660B13D7525723492CF41B134D"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -57,7 +57,7 @@ url_slides = ""
 # "files/third_year_presentation.pdf"
 url_video = ""
 url_poster = ""
-url_source = "https://www.cambridge.org/core/elements/exchange-rates-in-south-americas-emerging-markets/2E4390660B13D7525723492CF41B134D"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

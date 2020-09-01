@@ -1,5 +1,5 @@
 +++
-title = "[WP] \n Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators"
+title = "Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators"
 date = 2016-07-01T00:00:00
 draft = false
 

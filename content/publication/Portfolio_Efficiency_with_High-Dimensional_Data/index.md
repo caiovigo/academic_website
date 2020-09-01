@@ -1,5 +1,5 @@
 +++
-title = "[WP] \n Portfolio Efficiency with High-Dimensional Data as Conditioning Information"
+title = "Portfolio Efficiency with High-Dimensional Data as Conditioning Information"
 date = 2019-10-01T00:00:00
 draft = false
 
