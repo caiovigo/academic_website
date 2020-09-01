@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = {{% staticref "content/publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/ML_Factor_Based_Interpretation_US_Bond_Premia.pdf"  "newtab" %}}
+url_pdf = "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/ML_Factor_Based_Interpretation_US_Bond_Premia.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

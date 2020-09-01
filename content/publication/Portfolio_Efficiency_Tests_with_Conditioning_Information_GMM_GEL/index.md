@@ -42,7 +42,6 @@ tags = []
 
 # Links (optional).
 url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421775"
-#"publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
