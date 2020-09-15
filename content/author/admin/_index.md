@@ -122,6 +122,8 @@ interests = [
 
 I am a Ph.D. candidate in Economics and Econometrics at the University of Kansas (KU). I hold a MA in Economics from University of Kansas (KU) (2018), a MSc in Applied Economics from the University of São Paulo (USP) (2016), and a BSc in Economics from the University of São Paulo (USP) (2011).
 
-I have experience in Economics, with emphasis on Quantitative and Econometric Methods, Macro-Finance and Financial Econometrics. I work mainly with the following subjects: Asset Pricing and Econometrics in Finance. 
+I have experience in Economics, with emphasis on Quantitative and Econometric Methods, Macro-Finance and Financial Econometrics. I work mainly with the following subjects: Asset Pricing and Econometrics in Finance.
+
+I will be on the 2020/21 job market, and available for virtual interviews at any time, including the 2021 AEA/ASSA/AFA annual meetings.
 
 <!-- I am also a reviewer of the Brazilian Journal of Finance (RBFin) and the Journal of Management Science and Engineering (JMSE). Currently, I've been teaching Introduction to Econometrics at the University of Kansas. -->
