@@ -43,8 +43,8 @@ tags = []
 # Links (optional).
 url_pdf = "files/Soon_Announcement.html"
 #         "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/ML_Factor_Based_Interpretation_US_Bond_Premia.pdf"
-url_preprint = "files/Soon_Announcement.html"
-url_code = "files/Soon_Announcement.md"
+url_preprint = ""
+url_code = ""
 url_dataset = ""
 url_project = ""
 # Slides (optional).
