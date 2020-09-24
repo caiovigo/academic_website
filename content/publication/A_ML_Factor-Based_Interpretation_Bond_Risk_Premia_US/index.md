@@ -56,8 +56,10 @@ url_project = ""
 url_slides = "" 
 # "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/Presentation_(2020.03.19-26).pdf"
 url_video = ""
-url_poster = "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/Soon_Announcement.md" 
-url_source = "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/Soon_Announcement.html" 
+url_poster = "" 
+url_source = "" 
+url_custom = [{name = "PDF 2", url = "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/Soon_Announcement.html"}]
+url_custom = [{name = "PDF 3", url = "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/Soon_Announcement.md"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
