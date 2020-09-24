@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/Soon_Announcement.html"
+url_pdf = "files/ML_Factor_Based_Interpretation_US_Bond_Premia/Soon_Announcement.html"
 #         "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/ML_Factor_Based_Interpretation_US_Bond_Premia.pdf"
 url_preprint = ""
 url_code = ""
@@ -58,6 +58,7 @@ url_slides = ""
 url_video = ""
 url_poster = "" 
 url_source = "" 
+url_custom = [{name = "DNN Factors", url = "files/ML_Factor_Based_Interpretation_US_Bond_Premia/3D_Graph_ML_Factor_Based_Interpretation_US_Bond_Premia.html"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
