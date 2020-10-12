@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://econpapers.repec.org/paper/kanwpaper/202014.htm"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -58,6 +58,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 url_custom = [{name = "SSRN", url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421775"}]
+url_custom = [{name = "RePEc", url = "https://econpapers.repec.org/paper/kanwpaper/202014.htm"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

@@ -20,11 +20,10 @@ email = "caiovigo@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Quantitative and Econometrics Methods",
   "Financial Econometrics",
+  "Asset Pricing",
   "Macro-Finance",
-  "Time Series Analysis",
-  "Data Science / Machine Learning"
+  "Statistical and Machine Learning Methods"
 ]
 
 # List qualifications (such as academic degrees)
