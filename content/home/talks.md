@@ -41,4 +41,6 @@ exclude_featured = false
 * **Kansas State Economics Seminars** on November 13th, 2020.
 
 * **90th Southern Economic Association (SEA)** on November 21-23, 2020
+
+* **42nd Meeting of the Brazilian Econometric Society** on December 08-11, 2020
 <!-- https://www.southerneconomic.org/conference/ -->
