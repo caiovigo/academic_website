@@ -112,12 +112,10 @@ interests = [
   icon_pack = "ai"
   link = "files/Vigo_Pereira,Caio_CV_website_version.pdf"
 
-<!--   
-[[social]]
-  icon = "file-alt"
-  icon_pack = "fas"
-  link = "files/Vigo_Pereira_Caio_Resume_website_version_2020_07_10.pdf"
- -->
+# [[social]]
+#   icon = "file-alt"
+#   icon_pack = "fas"
+#   link = "files/Vigo_Pereira_Caio_Resume_website_version_2020_07_10.pdf"
 
 +++
 
