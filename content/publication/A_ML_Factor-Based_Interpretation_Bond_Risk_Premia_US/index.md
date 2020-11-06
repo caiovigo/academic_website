@@ -41,8 +41,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "files/ML_Factor_Based_Interpretation_US_Bond_Premia/Soon_Announcement.html"
-#         "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/ML_Factor_Based_Interpretation_US_Bond_Premia.pdf"
+url_pdf = "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US/ML_Factor_Based_Interpretation_US_Bond_Premia.pdf"
+#         "files/Soon_Announcement/Soon_Announcement.html"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

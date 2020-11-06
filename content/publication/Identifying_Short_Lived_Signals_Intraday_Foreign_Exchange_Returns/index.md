@@ -41,7 +41,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/Soon_Announcement/Soon_Announcement.html"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
