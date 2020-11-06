@@ -28,15 +28,15 @@
   url = "files/Vigo_Pereira,Caio_CV_website_version.pdf"
   weight = 5
   
-[[main]]
-  name = "Resume"
-  url = "files/Vigo_Pereira_Caio_Resume_website_version_2020_07_10.pdf"
-  weight = 6    
+# [[main]]
+#   name = "Resume"
+#   url = "files/Vigo_Pereira_Caio_Resume_website_version_2020_07_10.pdf"
+#   weight = 6    
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
