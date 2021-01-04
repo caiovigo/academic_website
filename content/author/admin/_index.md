@@ -33,8 +33,8 @@ interests = [
   year = 2021
   
 [[education.courses]]
-  course = "Graduate Certificate in Data Science"
-  institution = "The University of Kansas (KU)"
+  course = <font size="4"> "  Graduate Certificate in Data Science" </font>
+  institution = "  The University of Kansas (KU)"
   year = 2019
   
 [[education.courses]]
