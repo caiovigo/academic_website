@@ -125,6 +125,8 @@ I am a Ph.D. candidate in Economics with research interests in **Financial Econo
 
 **I will be on the 2020-21 job market, and available for virtual interviews at any time, including the 2021 AEA/ASSA/AFA annual meetings**.
 
+My **Job Market Paper** can be found {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**here** {{% /staticref %}}
+
 <!-- I have experience in Economics, with emphasis on Quantitative and Econometric Methods, Macro-Finance and Financial Econometrics.
 
 I work mainly with the following subjects: Asset Pricing and Econometrics in Finance.

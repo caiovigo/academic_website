@@ -25,6 +25,7 @@ caption = ""
 ### **Revise and Resubmit**
 
 * {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}}
+<font size="3"> ***International Review of Financial Analysis***
 
 <br>
  
@@ -32,7 +33,7 @@ caption = ""
 <!-- **Submitted** -->
 <!-- Papers under Revision -->
 
-* {{% staticref "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators, (Submitted)**{{% /staticref %}}  
+* {{% staticref "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators**{{% /staticref %}}  
  <font size="3"> (with. M. Laurini) </font>
 
 <br>
