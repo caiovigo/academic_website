@@ -28,7 +28,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Economics" <br> "  Graduate Certificate in Data Science"
+  course = "PhD in Economics"
   institution = "The University of Kansas (KU)"
   year = 2021
   
