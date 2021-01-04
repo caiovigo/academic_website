@@ -34,6 +34,7 @@ Department of Economics, The University of Kansas (KU)
 **Graduate Teaching Assistant**
 Department of Economics, The University of Kansas (KU)
 
+* Statistics and Data Analysis (Fall 2020)
 * Principles of Microeconomics (Fall 2016 & Fall 2017 [Head TA] )
 * Principles of Macroeconomics (Spring 2017)
 

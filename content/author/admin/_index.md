@@ -119,9 +119,9 @@ interests = [
 
 +++
 
-I am a Ph.D. candidate in Economics and Econometrics at the University of Kansas (KU). I hold a MA in Economics from University of Kansas (KU) (2018), a MSc in Applied Economics from the University of São Paulo (USP) (2016), and a BSc in Economics from the University of São Paulo (USP) (2011).
+<!-- I am a Ph.D. candidate in Economics at the University of Kansas (KU). I hold a MA in Economics from University of Kansas (KU) (2018), a MSc in Applied Economics from the University of São Paulo (USP) (2016), and a BSc in Economics from the University of São Paulo (USP) (2011). -->
 
-My research interests comprise **Financial Econometrics**, **Asset Pricing**, **Macro-Finance**, and **Statistical and Machine Learning Methods**.
+I am a Ph.D. candidate in Economics with research interests in **Financial Econometrics**, **Asset Pricing**, **Macro-Finance**, and **Statistical and Machine Learning Methods**.
 
 **I will be on the 2020-21 job market, and available for virtual interviews at any time, including the 2021 AEA/ASSA/AFA annual meetings**.
 
