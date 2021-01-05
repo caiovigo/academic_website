@@ -67,7 +67,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Funds Analyst"
-  company = "Patria Investiments Ltd"
+  company = "Patria Investments Ltd"
   company_url = "https://usp.br"
   location = "São Paulo, Brazil"
   date_start = "2012-06-30"
