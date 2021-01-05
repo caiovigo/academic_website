@@ -16,7 +16,8 @@ caption = ""
 
 ### **Job Market Paper**
 
-* {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}}
+* {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}} <br>
+<font size="3"> **Presentations:**  Perspectives on Analytical Research - University of Kansas, XX Brazilian Finance Meeting, Ph.D.-EVS, 2020 Financial Management Association (FMA) Doctoral Student Consortium, 90th Southern Economic Association (SEA), 57th Missouri Valley Economic Association (MVEA), 42nd Meeting of the Brazilian Econometric Society. </font>
 
 <br>
 
@@ -32,7 +33,7 @@ caption = ""
 <!-- **Submitted** -->
 <!-- Papers under Revision -->
 
-* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}};
+* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}} <br>
 <font size="3"> *Revise \& Resubmit*, ***International Review of Financial Analysis*** </font>
 
 * {{% staticref "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators**{{% /staticref %}}  
