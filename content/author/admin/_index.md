@@ -32,6 +32,8 @@ interests = [
   institution = "The University of Kansas (KU)"
   year = 2021
   
+  Graduate Certificate in Data Science
+
 [[education.courses]]
   course = "  Graduate Certificate in Data Science"
   institution = "  The University of Kansas (KU)"
