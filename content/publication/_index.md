@@ -14,6 +14,12 @@ image = ""
 caption = ""
 +++
 
+### **Job Market Paper**
+
+* {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}}
+
+<br>
+
 ### **Publications**
 
 * {{% staticref "publication/Exchange_Rates_South_America_Emerging_Markets" %}}**Exchange Rates in South America’s Emerging Markets**{{% /staticref %}}  
@@ -22,25 +28,24 @@ caption = ""
 
 <br>
  
-### **Revise and Resubmit**
-
-* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}}
-<font size="3"> ***International Review of Financial Analysis***
-
-<br>
- 
 ### **Under Review**
 <!-- **Submitted** -->
 <!-- Papers under Revision -->
 
+* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}};
+<font size="3"> *Revise \& Resubmit*, ***International Review of Financial Analysis***
+
 * {{% staticref "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators**{{% /staticref %}}  
  <font size="3"> (with. M. Laurini) </font>
+
 
 <br>
 
 ### **Working Papers**
 
+<!--
 * {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}}
+-->
 
 
 * {{% staticref "publication/Identifying_Short_Lived_Signals_Intraday_Foreign_Exchange_Returns" %}}**Identifying Short Lived Signals in Intraday Foreign Exchange Returns** (2020) {{% /staticref %}}  
