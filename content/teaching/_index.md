@@ -18,14 +18,14 @@ type = "docs"  # Do not modify.
 
 <br>
 
-At the University of Kansas (KU) I served as the instructor for the following courses: \textit{Intermediate Macroeconomics} (Econ 522) during one semester and \textit{Introduction to Econometrics} (Econ 526) for five straight terms. Along with \textit{Intermediate Microeconomics} (Econ 520), these three courses constitute/form the core set of disciplines for those seeking to major in Economics. 
+At the University of Kansas (KU) I served as the instructor for the following courses: *Intermediate Macroeconomics* (Econ 522) during one semester and *Introduction to Econometrics* (Econ 526) for five straight terms. Along with *Intermediate Microeconomics* (Econ 520), these three courses constitute/form the core set of disciplines for those seeking to major in Economics. 
 
-Additionally, in my first three semesters at KU I also served as Graduate Teaching Assistant for two introductory (freshman level) courses: \textit{Principles of Microeconomics} (Econ 142), and \textit{Principles of Macroeconomics} (Econ 144), serving as the head TA for Econ 142 in my third semester. 
+Additionally, in my first three semesters at KU I also served as Graduate Teaching Assistant for two introductory (freshman level) courses: *Principles of Microeconomics* (Econ 142), and *Principles of Macroeconomics* (Econ 144), serving as the head TA for Econ 142 in my third semester. 
 
 Furthermore, as a graduate student at the University of São Paulo in Brazil, I worked as a Graduate Teaching Assistant for an undergraduate course in Econometrics.
 
 <br>
---- 
+***
 
 On the left menu you can access some of my course materials. The following courses/semesters are available:
 
