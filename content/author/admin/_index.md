@@ -123,7 +123,7 @@ interests = [
 
 I am a Ph.D. candidate in Economics with research interests in **Financial Econometrics**, **Asset Pricing**, **Macro-Finance**, and **Statistical and Machine Learning Methods**.
 
-**I will be on the 2020-21 job market, and available for virtual interviews at any time, including the 2021 AEA/ASSA/AFA annual meetings**.
+I will be on the 2020-21 job market, and available for virtual interviews at any time, including the 2021 AEA/ASSA/AFA annual meetings.
 
 My **job market paper** can be found {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**here**. {{% /staticref %}}
 
