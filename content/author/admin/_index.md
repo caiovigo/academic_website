@@ -32,8 +32,6 @@ interests = [
   institution = "The University of Kansas (KU)"
   year = 2021
   
-  Graduate Certificate in Data Science
-
 [[education.courses]]
   course = "  Graduate Certificate in Data Science"
   institution = "  The University of Kansas (KU)"
@@ -122,6 +120,8 @@ interests = [
 +++
 
 <!-- I am a Ph.D. candidate in Economics at the University of Kansas (KU). I hold a MA in Economics from University of Kansas (KU) (2018), a MSc in Applied Economics from the University of São Paulo (USP) (2016), and a BSc in Economics from the University of São Paulo (USP) (2011). -->
+
+<br>
 
 I am a Ph.D. candidate in Economics with research interests in **Financial Econometrics**, **Asset Pricing**, **Macro-Finance**, and **Statistical and Machine Learning Methods**.
 
