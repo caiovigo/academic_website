@@ -35,11 +35,11 @@ caption = ""
 
 * {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}} <br>
 <font size="3"> *Revise \& Resubmit*, ***International Review of Financial Analysis*** </font> <br>
-<font size="3"> **Presentations:** 84th Midwest Economics Association Annual Meeting^[Cancelled due to COVID-19], 56th Missouri Valley Economic Association (MVEA), University of Kansas Economics Departamental Seminar. </font>
+<font size="3"> **Presentations:** 84th Midwest Economics Association Annual Meeting^[<font size="4"> Cancelled due to COVID-19.</font>], 56th Missouri Valley Economic Association (MVEA), University of Kansas Economics Departamental Seminar. </font>
 
 * {{% staticref "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators**{{% /staticref %}}  
  <font size="3"> (with. M. Laurini) </font> <br>
-<font size="3"> **Presentations:** 38th Meeting of the Brazilian Econometric Society^[Presentation by coauthor], XVI Brazilian Finance Meeting. </font>
+<font size="3"> **Presentations:** 38th Meeting of the Brazilian Econometric Society^[<font size="4"> Presentation by coauthor.</font>], XVI Brazilian Finance Meeting. </font>
 
 <br>
 
