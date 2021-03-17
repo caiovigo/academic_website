@@ -17,9 +17,7 @@ caption = ""
 ### **Job Market Paper**
 
 * {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}} <br>
-
-<font size="4"> **Paper Award:** Notable Graduate Student Paper at the 57th MVEA Conference <br>
-
+<font size="4"> **Paper Award:** \textcolor{red}{Notable Graduate Student Paper at the 57th MVEA Conference} <br>
 <font size="3"> **Presentations:**  Perspectives on Analytical Research - University of Kansas, XX Brazilian Finance Meeting, Ph.D.-EVS, 2020 Financial Management Association (FMA) Doctoral Student Consortium, 90th Southern Economic Association (SEA), 57th Missouri Valley Economic Association (MVEA), 42nd Meeting of the Brazilian Econometric Society. </font>
 
 <br>
