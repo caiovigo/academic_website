@@ -38,7 +38,7 @@ exclude_featured = false
 * [**90th Southern Economic Association (SEA)**](https://www.southerneconomic.org/conference-2020/) on November 22, 2020
 <!-- https://www.southerneconomic.org/conference-2020/ -->
 
-* <span style="color:blue"> **Kansas State Economics Seminars** </span> on November 13, 2020.
+* **Kansas State Economics Seminars** on November 13, 2020.
 
 * [**Doctoral Student Consortium**](https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf) at the 2020 Financial Management Association (FMA) on October 19, 2020
 <!-- https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf -->
