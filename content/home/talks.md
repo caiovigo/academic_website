@@ -32,27 +32,27 @@ exclude_featured = false
 * [**37th International Conference of the French Finance Association (AFFI)**](https://affi2021.eventsadmin.com/Home/Welcome) on May 28, 2021
 <!-- https://affi2021.eventsadmin.com/Home/Welcome -->
 
-* [**42nd Meeting of the Brazilian Econometric Society**](https://www.southerneconomic.org/conference/) on December 08-11, 2020
-<!-- https://www.southerneconomic.org/conference/ -->
+* [**42nd Meeting of the Brazilian Econometric Society**](https://easychair.org/smart-program/SBE42/) on December 09, 2020
+<!-- https://easychair.org/smart-program/SBE42/ -->
 
-* [**90th Southern Economic Association (SEA)**](https://www.southerneconomic.org/conference-2020/) on November 21-23, 2020
+* [**90th Southern Economic Association (SEA)**](https://www.southerneconomic.org/conference-2020/) on November 22, 2020
 <!-- https://www.southerneconomic.org/conference-2020/ -->
 
-* **Kansas State Economics Seminars** on November 13th, 2020.
+* <span style="color:blue"> **Kansas State Economics Seminars** </span> on November 13, 2020.
 
-* [**Doctoral Student Consortium**](https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf) at the 2020 Financial Management Association (FMA) on October 19th, 2020
+* [**Doctoral Student Consortium**](https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf) at the 2020 Financial Management Association (FMA) on October 19, 2020
 <!-- https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf -->
 
-* [**57th Missouri Valley Economic Association (MVEA)**](https://www.mvea.net/annual-conference.html) on October 15-17, 2020
+* [**57th Missouri Valley Economic Association (MVEA)**](https://www.mvea.net/annual-conference.html) on October 16, 2020
 <!-- https://www.mvea.net/annual-conference.html -->
 
-* [**University of Kansas Economics Department Seminars**](https://economics.ku.edu/departmental-speaker-seminars) on September 25th, 2020
+* [**University of Kansas Economics Department Seminars**](https://economics.ku.edu/departmental-speaker-seminars) on September 25, 2020
 <!-- https://economics.ku.edu/departmental-speaker-seminars -->
 
-* [**PhD - Economics Virtual Seminar**](https://sites.google.com/view/phd-evs2020) on September 17th, 2020
+* [**PhD - Economics Virtual Seminar**](https://sites.google.com/view/phd-evs2020) on September 17, 2020
 <!-- https://sites.google.com/view/phd-evs2020 -->
 
-* [**20th Brazilian Finance Meeting**](https://doity.com.br/xx-encontro-brasileiro-de-financas) on July 17th, 2020
+* [**20th Brazilian Finance Meeting**](https://doity.com.br/xx-encontro-brasileiro-de-financas) on July 17, 2020
 <!-- https://doity.com.br/xx-encontro-brasileiro-de-financas -->
 
 
