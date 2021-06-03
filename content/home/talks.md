@@ -23,24 +23,49 @@ list_format = 2
 exclude_featured = false
 +++
 
-* **20th Brazilian Finance Meeting** on July 17th, 2020
-<!-- https://doity.com.br/xx-encontro-brasileiro-de-financas -->
+* **Southern Finance Association (SFA) 61th Annual Meeting 2021** on November 17-20, 2021
 
-* **PhD - Economics Virtual Seminar** on September 17th, 2020
-<!-- https://sites.google.com/view/phd-evs2020 -->
+* {{% staticref https://southernfinance.org/2021-meeting %}}**Southern Finance Association (SFA) 61th Annual Meeting 2021** {{% /staticref %}} on November 17-20, 2021 <br>
 
-* **University of Kansas Economics Department Seminars** on September 25th, 2020
-<!-- https://economics.ku.edu/departmental-speaker-seminars -->
+* **41st International Symposium on Forecasting** on June 27-30, 2021
+<!-- https://isf.forecasters.org/ -->
 
-* **57th Missouri Valley Economic** Association (MVEA) on October 15-17, 2020
-<!-- https://www.mvea.net/annual-conference.html -->
+* **37th International Conference of the French Finance Association (AFFI)** on May 28, 2021
+<!-- https://affi2021.eventsadmin.com/Home/Welcome -->
+
+* **42nd Meeting of the Brazilian Econometric Society** on December 08-11, 2020
+<!-- https://www.southerneconomic.org/conference/ -->
+
+* **90th Southern Economic Association (SEA)** on November 21-23, 2020
+<!-- https://www.southerneconomic.org/conference-2020/ -->
+
+* **Kansas State Economics Seminars** on November 13th, 2020.
 
 * **Doctoral Student Consortium** at the 2020 Financial Management Association (FMA) on October 19th, 2020
 <!-- https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf -->
 
-* **Kansas State Economics Seminars** on November 13th, 2020.
+* **57th Missouri Valley Economic** Association (MVEA) on October 15-17, 2020
+<!-- https://www.mvea.net/annual-conference.html -->
 
-* **90th Southern Economic Association (SEA)** on November 21-23, 2020
+* **University of Kansas Economics Department Seminars** on September 25th, 2020
+<!-- https://economics.ku.edu/departmental-speaker-seminars -->
 
-* **42nd Meeting of the Brazilian Econometric Society** on December 08-11, 2020
-<!-- https://www.southerneconomic.org/conference/ -->
+* **PhD - Economics Virtual Seminar** on September 17th, 2020
+<!-- https://sites.google.com/view/phd-evs2020 -->
+
+* **20th Brazilian Finance Meeting** on July 17th, 2020
+<!-- https://doity.com.br/xx-encontro-brasileiro-de-financas -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
