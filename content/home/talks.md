@@ -23,9 +23,8 @@ list_format = 2
 exclude_featured = false
 +++
 
-* **Southern Finance Association (SFA) 61th Annual Meeting 2021** on November 17-20, 2021
-
-* {{% staticref https://southernfinance.org/2021-meeting %}}**Southern Finance Association (SFA) 61th Annual Meeting 2021** {{% /staticref %}} on November 17-20, 2021 <br>
+* [**Southern Finance Association (SFA) 61th Annual Meeting 2021**](https://southernfinance.org/2021-meeting %}}**Southern Finance Association (SFA) 61th Annual Meeting 2021** {{% /staticref %}} on November 17-20, 2021 <br>
+) on November 17-20, 2021
 
 * **41st International Symposium on Forecasting** on June 27-30, 2021
 <!-- https://isf.forecasters.org/ -->
