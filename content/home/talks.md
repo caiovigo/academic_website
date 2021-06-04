@@ -26,7 +26,7 @@ exclude_featured = false
 * [**Southern Finance Association (SFA) 61th Annual Meeting 2021**](https://southernfinance.org/2021-meeting) on November 17-20, 2021
 <!-- https://southernfinance.org/2021-meeting -->
 
-* [**41st International Symposium on Forecasting**](https://isf.forecasters.org/) on June 27-30, 2021
+* [**41st International Symposium on Forecasting**](https://isf.forecasters.org/) on June 28, 2021
 <!-- https://isf.forecasters.org/ -->
 
 * [**37th International Conference of the French Finance Association (AFFI)**](https://affi2021.eventsadmin.com/Home/Welcome) on May 28, 2021
