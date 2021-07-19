@@ -26,6 +26,9 @@ exclude_featured = false
 * [**Southern Finance Association (SFA) 61th Annual Meeting 2021**](https://southernfinance.org/2021-meeting) on November 17-20, 2021
 <!-- https://southernfinance.org/2021-meeting -->
 
+* [**7th International Young Finance Scholars' (IYFS) Conference**](https://isf.forecasters.org/) on July 12, 2021
+<!-- https://www.pku.org.uk/iyfs/index.html -->
+
 * [**41st International Symposium on Forecasting**](https://isf.forecasters.org/) on June 28, 2021
 <!-- https://isf.forecasters.org/ -->
 
