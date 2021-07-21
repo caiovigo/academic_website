@@ -16,14 +16,14 @@ caption = ""
 
 ### **Publications**
 
-* {{% staticref "publication/Portfolio_Efficiency_with_High-Dimensional_Data" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** (2020) {{% /staticref %}} <br>
+* {{% staticref "https://doi.org/10.1016/j.irfa.2021.101811" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** {{% /staticref %}} <br>
 <font size="3"> ***International Review of Financial Analysis***, 2021 </font>
 
 <!--
 <font size="3"> **Presentations:** 84th Midwest Economics Association Annual Meeting^[<font size="2"> Cancelled due to COVID-19.</font>], 56th Missouri Valley Economic Association (MVEA), University of Kansas Economics Departamental Seminar. </font>
 -->
 
-* {{% staticref "publication/Exchange_Rates_South_America_Emerging_Markets" %}}**Exchange Rates in South America’s Emerging Markets**{{% /staticref %}}  
+* {{% staticref "https://doi.org/10.1017/9781108893671" %}}**Exchange Rates in South America’s Emerging Markets**{{% /staticref %}}  
 <font size="3"> (with L. Molinas Sosa)  </font>  
 <font size="3"> ***Cambridge Elements in the Economics of Emerging Markets***, 2020 by Cambridge University Press </font>
 
@@ -33,8 +33,8 @@ caption = ""
 
 * {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}} <br>
 <font size="3"> **Paper Awards:** <br>
-<font size="3"> <span style="color:darkred"> * **Best Overall Paper at the 7th IYFS Conference** </span> <br>
-<font size="3"> <span style="color:darkred"> * **Notable Graduate Student Paper at the 57th MVEA Conference** </span> <br>
+<font size="3"> <span style="color:darkred">    *    **Best Overall Paper at the 7th IYFS Conference** </span> <br>
+<font size="3"> <span style="color:darkred">    *    **Notable Graduate Student Paper at the 57th MVEA Conference** </span> <br>
 <font size="3"> **Presentations:**  Perspectives on Analytical Research - University of Kansas, XX Brazilian Finance Meeting, Ph.D.-EVS, 2020 Financial Management Association (FMA) Doctoral Student Consortium, 90th Southern Economic Association (SEA), 57th Missouri Valley Economic Association (MVEA), 42nd Meeting of the Brazilian Econometric Society, 37th International Conference of the French Finance Association (AFFI), 41st International Symposium on Forecasting, 7th International Young Finance Scholar's (IYFS) Conference. </font>
 
 <br>
