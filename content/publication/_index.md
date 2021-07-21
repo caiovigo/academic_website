@@ -35,6 +35,7 @@ caption = ""
   - <font size="3"> **Paper Awards:** <br>
     - <font size="3"> <span style="color:darkred"> **Best Overall Paper at the 7th IYFS Conference** </span> <br>
     - <font size="3"> <span style="color:darkred"> **Notable Graduate Student Paper at the 57th MVEA Conference** </span> <br>
+    
   - <font size="3"> **Presentations:**  Perspectives on Analytical Research - University of Kansas, XX Brazilian Finance Meeting, Ph.D.-EVS, 2020 Financial Management Association (FMA) Doctoral Student Consortium, 90th Southern Economic Association (SEA), 57th Missouri Valley Economic Association (MVEA), 42nd Meeting of the Brazilian Econometric Society, 37th International Conference of the French Finance Association (AFFI), 41st International Symposium on Forecasting, 7th International Young Finance Scholar's (IYFS) Conference. </font>
 
 <br>
