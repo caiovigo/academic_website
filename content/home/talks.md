@@ -26,14 +26,14 @@ exclude_featured = false
 * [**Southern Finance Association (SFA) 61th Annual Meeting 2021**](https://southernfinance.org/2021-meeting) on November 17-20, 2021
 <!-- https://southernfinance.org/2021-meeting -->
 
-* [**7th International Young Finance Scholars' (IYFS) Conference**](https://isf.forecasters.org/) on July 12, 2021
-<!-- https://www.pku.org.uk/iyfs/index.html -->
+* [**7th International Young Finance Scholars' (IYFS) Conference**](https://www.pku.org.uk/iyfs/index.html/) on July 12, 2021
+<!-- https://www.pku.org.uk/iyfs/index.html/ -->
 
 * [**41st International Symposium on Forecasting**](https://isf.forecasters.org/) on June 28, 2021
 <!-- https://isf.forecasters.org/ -->
 
-* [**37th International Conference of the French Finance Association (AFFI)**](https://affi2021.eventsadmin.com/Home/Welcome) on May 28, 2021
-<!-- https://affi2021.eventsadmin.com/Home/Welcome -->
+* [**37th International Conference of the French Finance Association (AFFI)**](https://affi2021.eventsadmin.com/Home/Welcome/) on May 28, 2021
+<!-- https://affi2021.eventsadmin.com/Home/Welcome/ -->
 
 * [**42nd Meeting of the Brazilian Econometric Society**](https://easychair.org/smart-program/SBE42/) on December 09, 2020
 <!-- https://easychair.org/smart-program/SBE42/ -->
@@ -43,20 +43,20 @@ exclude_featured = false
 
 * **Kansas State Economics Seminars** on November 13, 2020.
 
-* [**Doctoral Student Consortium**](https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf) at the 2020 Financial Management Association (FMA) on October 19, 2020
-<!-- https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf -->
+* [**Doctoral Student Consortium**](https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf/) at the 2020 Financial Management Association (FMA) on October 19, 2020
+<!-- https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf/ -->
 
-* [**57th Missouri Valley Economic Association (MVEA)**](https://www.mvea.net/annual-conference.html) on October 16, 2020
-<!-- https://www.mvea.net/annual-conference.html -->
+* [**57th Missouri Valley Economic Association (MVEA)**](https://www.mvea.net/annual-conference.html/) on October 16, 2020
+<!-- https://www.mvea.net/annual-conference.html/ -->
 
-* [**University of Kansas Economics Department Seminars**](https://economics.ku.edu/departmental-speaker-seminars) on September 25, 2020
-<!-- https://economics.ku.edu/departmental-speaker-seminars -->
+* [**University of Kansas Economics Department Seminars**](https://economics.ku.edu/departmental-speaker-seminars/) on September 25, 2020
+<!-- https://economics.ku.edu/departmental-speaker-seminars/ -->
 
-* [**PhD - Economics Virtual Seminar**](https://sites.google.com/view/phd-evs2020) on September 17, 2020
-<!-- https://sites.google.com/view/phd-evs2020 -->
+* [**PhD - Economics Virtual Seminar**](https://sites.google.com/view/phd-evs2020/) on September 17, 2020
+<!-- https://sites.google.com/view/phd-evs2020/ -->
 
-* [**20th Brazilian Finance Meeting**](https://doity.com.br/xx-encontro-brasileiro-de-financas) on July 17, 2020
-<!-- https://doity.com.br/xx-encontro-brasileiro-de-financas -->
+* [**20th Brazilian Finance Meeting**](https://doity.com.br/xx-encontro-brasileiro-de-financas/) on July 17, 2020
+<!-- https://doity.com.br/xx-encontro-brasileiro-de-financas/ -->
 
 
 
