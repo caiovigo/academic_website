@@ -46,6 +46,7 @@ date_format = "January 2006"
   description = """
   Courses:
   
+  * Statistics and Data Analysis (Spring 2021)
   * Statistics and Data Analysis (Fall 2020)
   * Principles of Microeconomics (Fall 2017) [Head TA]
   * Principles of Microeconomics (Fall 2016)
