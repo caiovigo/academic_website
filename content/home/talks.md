@@ -32,8 +32,8 @@ exclude_featured = false
 * [**41st International Symposium on Forecasting**](https://isf.forecasters.org/) on June 28, 2021
 <!-- https://isf.forecasters.org/ -->
 
-* [**37th International Conference of the French Finance Association (AFFI)**](https://affi2021.eventsadmin.com/Home/Welcome/) on May 28, 2021
-<!-- https://affi2021.eventsadmin.com/Home/Welcome/ -->
+* [**37th International Conference of the French Finance Association (AFFI)**](https://affi2021.eventsadmin.com/Home/Welcome) on May 28, 2021
+<!-- https://affi2021.eventsadmin.com/Home/Welcome -->
 
 * [**42nd Meeting of the Brazilian Econometric Society**](https://easychair.org/smart-program/SBE42/) on December 09, 2020
 <!-- https://easychair.org/smart-program/SBE42/ -->
@@ -44,7 +44,7 @@ exclude_featured = false
 * **Kansas State Economics Seminars** on November 13, 2020.
 
 * [**Doctoral Student Consortium**](https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf/) at the 2020 Financial Management Association (FMA) on October 19, 2020
-<!-- https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf/ -->
+<!-- https://fmai.memberclicks.net/assets/docs/newyork/NYDSCAgendaRevised.pdf -->
 
 * [**57th Missouri Valley Economic Association (MVEA)**](https://www.mvea.net/annual-conference.html/) on October 16, 2020
 <!-- https://www.mvea.net/annual-conference.html/ -->
