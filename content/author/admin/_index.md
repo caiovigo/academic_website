@@ -34,17 +34,17 @@ interests = [
   
 [[education.courses]]
   course = "  Graduate Certificate in Data Science"
-  institution = "  The University of Kansas (KU)"
+  institution = "University of Kansas (KU)"
   year = 2019
   
 [[education.courses]]
   course = "Graduate Certificate in Applied Mathematics"
-  institution = "The University of Kansas (KU)"
+  institution = "University of Kansas (KU)"
   year = 2019  
 
 [[education.courses]]
   course = "MA in Economics"
-  institution = "The University of Kansas (KU)"
+  institution = "University of Kansas (KU)"
   year = 2018
 
 [[education.courses]]
