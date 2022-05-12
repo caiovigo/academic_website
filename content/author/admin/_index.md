@@ -6,11 +6,11 @@ name = "Caio Vigo"
 superuser = true
 
 # Role/position
-role = "Ph.D. candidate in Economics"
+role = "Quantitative Model Developer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The University of Kansas (KU)", url = "https://ku.edu" } ]
+organizations = [ { name = "", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include Financial Econometrics, Time Series Analysis and Data Science."
