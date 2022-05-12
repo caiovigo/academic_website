@@ -124,16 +124,13 @@ interests = [
 <br>
 
 I am a Quantitative Model Developer at cQuant.io.
+ 
+My research interest lies in the intersection of **Machine Learning and Econometrics Methods**.
 
-My research interests is in intersection of **Machine Learning** and **Econometrics Methods**, spaning
- **Financial Econometrics**, **Asset Pricing**, and **Macro-Finance**.
-
-During my PhD in Economics, I worked on the interaction between demographic changes and the housing market
-
-
-
+During my Ph.D. in Economics, I worked on the interaction of Machine Learning with **Financial Econometrics**, **Asset Pricing**, and **Macro-Finance**.
 
 <!-- 
+During my PhD in Economics, I worked on the interaction between demographic changes and the housing market
 I infrequently blog about random things.
 I am a Ph.D. candidate in Economics with research interests in
 
