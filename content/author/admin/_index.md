@@ -6,7 +6,7 @@ name = "Caio Vigo"
 superuser = true
 
 # Role/position
-role = "Quantitative Model Developer"
+role = "Econometric Modeling and Machine Learning"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -123,13 +123,25 @@ interests = [
 
 <br>
 
-I am a Ph.D. candidate in Economics with research interests in **Financial Econometrics**, **Asset Pricing**, **Macro-Finance**, and **Statistical and Machine Learning Methods**.
+I am a Quantitative Model Developer at cQuant.io.
+
+My research interests is in intersection of **Machine Learning** and **Econometrics Methods**, spaning
+ **Financial Econometrics**, **Asset Pricing**, and **Macro-Finance**.
+
+During my PhD in Economics, I worked on the interaction between demographic changes and the housing market
+
+
+
+
+<!-- 
+I infrequently blog about random things.
+I am a Ph.D. candidate in Economics with research interests in
 
 I will be in the 2020-21 job market, and available for virtual interviews at any time, including the 2021 AEA/ASSA/AFA annual meetings.
 
 My **job market paper** can be found {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**here**. {{% /staticref %}}
 
-<!-- I have experience in Economics, with emphasis on Quantitative and Econometric Methods, Macro-Finance and Financial Econometrics.
+I have experience in Economics, with emphasis on Quantitative and Econometric Methods, Macro-Finance and Financial Econometrics.
 
 I work mainly with the following subjects: Asset Pricing and Econometrics in Finance.
 
