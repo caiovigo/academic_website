@@ -16,6 +16,14 @@ caption = ""
 
 ### **Publications**
 
+* {{% staticref "https://doi.org/10.3390/e24121705" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators**{{% /staticref %}}  
+ <font size="3"> (with. M. Laurini) </font> <br>
+<font size="3"> ***Entropy***, 2022. **Entropy-Based Methods for Finance and Risk Management.** </font>
+ 
+<!--
+<font size="3"> **Presentations:** 38th Meeting of the Brazilian Econometric Society^[<font size="2"> Presentation by coauthor.</font>], XVI Brazilian Finance Meeting. </font>
+-->
+
 * {{% staticref "https://doi.org/10.1016/j.irfa.2021.101811" %}}**Portfolio Efficiency with High-Dimensional Data as Conditioning Information** {{% /staticref %}} <br>
 <font size="3"> ***International Review of Financial Analysis***, 2021 </font>
 
@@ -29,7 +37,14 @@ caption = ""
 
 <br>
 
-### **Job Market Paper**
+ 
+<!-- ### **Under Review** -->
+<!-- **Submitted** -->
+<!-- Papers under Revision -->
+
+### **Working Papers**
+
+<!-- ### **Job Market Paper** -->
 
 * {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}} <br>
     * <font size="3"> **Paper Awards:** <br>
@@ -37,24 +52,9 @@ caption = ""
         * <font size="3"> <span style="color:darkred"> **Notable Graduate Student Paper at the 57th MVEA Conference** </span> <br>
     * <font size="3"> **Presentations:**  Perspectives on Analytical Research - University of Kansas, XX Brazilian Finance Meeting, Ph.D.-EVS, 2020 Financial Management Association (FMA) Doctoral Student Consortium, 90th Southern Economic Association (SEA), 57th Missouri Valley Economic Association (MVEA), 42nd Meeting of the Brazilian Econometric Society, 37th International Conference of the French Finance Association (AFFI), 41st International Symposium on Forecasting, 7th International Young Finance Scholar's (IYFS) Conference. </font>
 
-<br>
- 
-### **Under Review**
-<!-- **Submitted** -->
-<!-- Papers under Revision -->
-
-* {{% staticref "publication/Portfolio_Efficiency_Tests_with_Conditioning_Information_GMM_GEL" %}}**Portfolio Efficiency Tests with Conditioning Information - Comparing GMM and GEL Estimators**{{% /staticref %}}  
- <font size="3"> (with. M. Laurini) </font> <br>
-<font size="3"> **Presentations:** 38th Meeting of the Brazilian Econometric Society^[<font size="2"> Presentation by coauthor.</font>], XVI Brazilian Finance Meeting. </font>
-
-<br>
-
-### **Working Papers**
-
 <!--
 * {{% staticref "publication/A_ML_Factor-Based_Interpretation_Bond_Risk_Premia_US" %}}**A Machine Learning Factor-Based Interpretation for the Bond Risk Premia in U.S.** (2020) {{% /staticref %}}
 -->
-
 
 * {{% staticref "publication/Identifying_Short_Lived_Signals_Intraday_Foreign_Exchange_Returns" %}}**Identifying Short Lived Signals in Intraday Foreign Exchange Returns** (2020) {{% /staticref %}}  
  <font size="3"> (with L. A. Adams) </font>
