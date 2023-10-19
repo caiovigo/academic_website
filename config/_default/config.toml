@@ -16,7 +16,7 @@ baseurl = "https://caiovigo.com/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics =  "UA-133906887-1"
+googleAnalytics =  "G-W36VS3VW41" #Old: "UA-133906887-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
